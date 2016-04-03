@@ -1,0 +1,1 @@
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\OddEvenPosition\bin\Release\OddEvenPosition.exe.config

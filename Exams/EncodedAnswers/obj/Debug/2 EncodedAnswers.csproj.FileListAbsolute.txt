@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\EncodedAnswers\bin\Debug\EncodedAnswers.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\EncodedAnswers\obj\Debug\EncodedAnswers.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\EncodedAnswers\obj\Debug\EncodedAnswers.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\EncodedAnswers\bin\Debug\EncodedAnswers.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\EncodedAnswers\bin\Debug\EncodedAnswers.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\EncodedAnswers\obj\Debug\2 EncodedAnswers.csprojResolveAssemblyReference.cache

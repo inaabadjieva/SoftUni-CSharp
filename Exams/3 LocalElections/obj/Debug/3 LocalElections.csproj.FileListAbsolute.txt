@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 LocalElections\bin\Debug\3 LocalElections.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 LocalElections\bin\Debug\3 LocalElections.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 LocalElections\bin\Debug\3 LocalElections.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 LocalElections\obj\Debug\3 LocalElections.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 LocalElections\obj\Debug\3 LocalElections.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 LocalElections\obj\Debug\3 LocalElections.pdb

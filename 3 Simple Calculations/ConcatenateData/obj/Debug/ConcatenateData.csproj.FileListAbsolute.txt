@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\ConcatenateData\bin\Debug\ConcatenateData.exe
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\ConcatenateData\bin\Debug\ConcatenateData.pdb
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\ConcatenateData\obj\Debug\ConcatenateData.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\ConcatenateData\obj\Debug\ConcatenateData.exe
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\ConcatenateData\obj\Debug\ConcatenateData.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\ConcatenateData\obj\Debug\ConcatenateData.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\ConcatenateData\obj\Debug\ConcatenateData.pdb

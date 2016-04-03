@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\TrapezoidArea\obj\Debug\TrapezoidArea.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\TrapezoidArea\obj\Debug\TrapezoidArea.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

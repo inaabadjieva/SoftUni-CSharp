@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\ConditionalStatements\ExellentResult\bin\Debug\ExellentResult.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\ExellentResult\bin\Debug\ExellentResult.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\ExellentResult\bin\Debug\ExellentResult.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\ExellentResult\obj\Debug\ExellentResult.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\ExellentResult\obj\Debug\ExellentResult.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\ExellentResult\obj\Debug\ExellentResult.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\ExellentResult\bin\Debug\ExellentResult.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\ExellentResult\obj\Debug\ExellentResult.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\ExellentResult\obj\Debug\ExellentResult.pdb

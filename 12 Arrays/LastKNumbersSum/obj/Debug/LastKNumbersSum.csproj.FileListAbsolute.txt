@@ -1,0 +1,6 @@
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\LastKNumbersSum\bin\Debug\LastKNumbersSum.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\LastKNumbersSum\obj\Debug\LastKNumbersSum.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\LastKNumbersSum\bin\Debug\LastKNumbersSum.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\LastKNumbersSum\bin\Debug\LastKNumbersSum.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\LastKNumbersSum\obj\Debug\LastKNumbersSum.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\LastKNumbersSum\obj\Debug\LastKNumbersSum.pdb

@@ -1,0 +1,3 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\ProspectInHospitality\bin\Debug\ProspectInHospitality.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\ProspectInHospitality\obj\Debug\ProspectInHospitality.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\ProspectInHospitality\obj\Debug\ProspectInHospitality.pdb

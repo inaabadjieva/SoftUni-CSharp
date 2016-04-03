@@ -1,0 +1,8 @@
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\SumDigits\bin\Debug\SumDigits.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\SumDigits\bin\Debug\SumDigits.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\SumDigits\bin\Debug\SumDigits.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\SumDigits\obj\Debug\SumDigits.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\SumDigits\obj\Debug\SumDigits.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\SumDigits\bin\Debug\SumDigits.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\SumDigits\obj\Debug\SumDigits.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\SumDigits\obj\Debug\SumDigits.pdb

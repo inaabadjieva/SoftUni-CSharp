@@ -1,0 +1,9 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SumSeconds\bin\Debug\SumSeconds.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SumSeconds\obj\Debug\SumSeconds.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SumSeconds\obj\Debug\SumSeconds.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\SumSeconds\obj\Debug\SumSeconds.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\SumSeconds\obj\Debug\SumSeconds.pdb

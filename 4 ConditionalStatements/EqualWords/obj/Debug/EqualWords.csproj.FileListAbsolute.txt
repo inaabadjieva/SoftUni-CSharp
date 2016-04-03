@@ -1,0 +1,8 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\EqualWords\bin\Debug\EqualWords.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\EqualWords\bin\Debug\EqualWords.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\EqualWords\bin\Debug\EqualWords.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\EqualWords\obj\Debug\EqualWords.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\EqualWords\obj\Debug\EqualWords.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\EqualWords\bin\Debug\EqualWords.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\EqualWords\obj\Debug\EqualWords.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\EqualWords\obj\Debug\EqualWords.pdb

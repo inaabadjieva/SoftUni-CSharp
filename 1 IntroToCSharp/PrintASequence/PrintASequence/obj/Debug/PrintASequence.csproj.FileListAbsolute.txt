@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\PrintASequence\PrintASequence\bin\Debug\PrintASequence.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\PrintASequence\PrintASequence\obj\Debug\PrintASequence.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\PrintASequence\PrintASequence\bin\Debug\PrintASequence.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\PrintASequence\PrintASequence\bin\Debug\PrintASequence.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\PrintASequence\PrintASequence\obj\Debug\PrintASequence.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\PrintASequence\PrintASequence\obj\Debug\PrintASequence.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\PrintASequence\PrintASequence\bin\Debug\PrintASequence.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\PrintASequence\PrintASequence\obj\Debug\PrintASequence.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\PrintASequence\PrintASequence\obj\Debug\PrintASequence.pdb

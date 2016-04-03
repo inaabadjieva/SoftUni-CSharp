@@ -1,0 +1,6 @@
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\TripleOfLetters\bin\Debug\TripleOfLetters.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\TripleOfLetters\bin\Debug\TripleOfLetters.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\TripleOfLetters\bin\Debug\TripleOfLetters.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\TripleOfLetters\obj\Debug\TripleOfLetters.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\TripleOfLetters\obj\Debug\TripleOfLetters.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\TripleOfLetters\obj\Debug\TripleOfLetters.pdb

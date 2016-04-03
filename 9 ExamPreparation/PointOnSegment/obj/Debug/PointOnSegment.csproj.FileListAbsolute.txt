@@ -1,0 +1,8 @@
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PointOnSegment\bin\Debug\PointOnSegment.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PointOnSegment\bin\Debug\PointOnSegment.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PointOnSegment\bin\Debug\PointOnSegment.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PointOnSegment\obj\Debug\PointOnSegment.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PointOnSegment\obj\Debug\PointOnSegment.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\PointOnSegment\bin\Debug\PointOnSegment.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\PointOnSegment\obj\Debug\PointOnSegment.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\PointOnSegment\obj\Debug\PointOnSegment.pdb

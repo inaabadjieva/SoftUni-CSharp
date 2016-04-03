@@ -1,0 +1,5 @@
+c:\users\ina\documents\visual studio 2013\Projects\ReformatingCode\ReformatingCode\bin\Debug\ReformatingCode.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ReformatingCode\ReformatingCode\bin\Debug\ReformatingCode.exe
+c:\users\ina\documents\visual studio 2013\Projects\ReformatingCode\ReformatingCode\bin\Debug\ReformatingCode.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ReformatingCode\ReformatingCode\obj\Debug\ReformatingCode.exe
+c:\users\ina\documents\visual studio 2013\Projects\ReformatingCode\ReformatingCode\obj\Debug\ReformatingCode.pdb

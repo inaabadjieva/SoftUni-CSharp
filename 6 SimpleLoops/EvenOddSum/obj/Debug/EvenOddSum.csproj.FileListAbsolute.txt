@@ -1,0 +1,8 @@
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\EvenOddSum\bin\Debug\EvenOddSum.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\EvenOddSum\bin\Debug\EvenOddSum.exe
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\EvenOddSum\bin\Debug\EvenOddSum.pdb
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\EvenOddSum\obj\Debug\EvenOddSum.exe
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\EvenOddSum\obj\Debug\EvenOddSum.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\EvenOddSum\bin\Debug\EvenOddSum.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\EvenOddSum\obj\Debug\EvenOddSum.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\EvenOddSum\obj\Debug\EvenOddSum.pdb

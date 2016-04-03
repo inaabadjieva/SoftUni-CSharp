@@ -1,0 +1,8 @@
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\InvalidNumber\obj\Debug\InvalidNumber.pdb

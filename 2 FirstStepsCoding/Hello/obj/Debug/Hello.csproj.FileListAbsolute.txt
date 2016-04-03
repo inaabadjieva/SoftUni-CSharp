@@ -1,0 +1,5 @@
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Hello\bin\Debug\Hello.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Hello\bin\Debug\Hello.exe
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Hello\bin\Debug\Hello.pdb
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Hello\obj\Debug\Hello.exe
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Hello\obj\Debug\Hello.pdb

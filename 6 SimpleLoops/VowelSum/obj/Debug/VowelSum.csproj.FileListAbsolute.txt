@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\VowelSum\bin\Debug\VowelSum.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\VowelSum\bin\Debug\VowelSum.exe
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\VowelSum\bin\Debug\VowelSum.pdb
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\VowelSum\obj\Debug\VowelSum.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\VowelSum\obj\Debug\VowelSum.exe
+c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\VowelSum\obj\Debug\VowelSum.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\VowelSum\bin\Debug\VowelSum.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\VowelSum\obj\Debug\VowelSum.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\VowelSum\obj\Debug\VowelSum.pdb

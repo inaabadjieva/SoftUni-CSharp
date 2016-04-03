@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\HungryGarfield\bin\Debug\HungryGarfield.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\HungryGarfield\obj\Debug\HungryGarfield.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\HungryGarfield\obj\Debug\HungryGarfield.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\HungryGarfield\bin\Debug\HungryGarfield.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\HungryGarfield\bin\Debug\HungryGarfield.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\HungryGarfield\obj\Debug\1 HungryGarfield.csprojResolveAssemblyReference.cache

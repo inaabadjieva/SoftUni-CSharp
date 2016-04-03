@@ -1,0 +1,12 @@
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\DollarTriangle\bin\Debug\DollarTriangle.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\DollarTriangle\bin\Debug\DollarTriangle.exe
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\DollarTriangle\bin\Debug\DollarTriangle.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\DollarTriangle\obj\Debug\DollarTriangle.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\DollarTriangle\obj\Debug\DollarTriangle.exe
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\DollarTriangle\obj\Debug\DollarTriangle.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\DollarTriangle\bin\Debug\DollarTriangle.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\DollarTriangle\obj\Debug\DollarTriangle.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\DollarTriangle\obj\Debug\DollarTriangle.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\DollarTriangle\bin\Debug\DollarTriangle.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\DollarTriangle\bin\Debug\DollarTriangle.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\DollarTriangle\obj\Debug\DollarTriangle.csprojResolveAssemblyReference.cache

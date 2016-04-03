@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\RotateAndSum\bin\Debug\RotateAndSum.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\RotateAndSum\obj\Debug\RotateAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\RotateAndSum\bin\Debug\RotateAndSum.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\RotateAndSum\bin\Debug\RotateAndSum.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\RotateAndSum\obj\Debug\RotateAndSum.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\12 Arrays\RotateAndSum\obj\Debug\RotateAndSum.pdb

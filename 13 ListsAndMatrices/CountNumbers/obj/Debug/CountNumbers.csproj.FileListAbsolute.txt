@@ -1,0 +1,6 @@
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\CountNumbers\bin\Debug\CountNumbers.exe.config
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\CountNumbers\bin\Debug\CountNumbers.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\CountNumbers\bin\Debug\CountNumbers.pdb
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\CountNumbers\obj\Debug\CountNumbers.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\CountNumbers\obj\Debug\CountNumbers.pdb
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\CountNumbers\obj\Debug\CountNumbers.csprojResolveAssemblyReference.cache

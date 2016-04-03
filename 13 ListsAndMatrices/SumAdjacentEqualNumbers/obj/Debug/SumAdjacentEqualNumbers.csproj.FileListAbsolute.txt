@@ -1,0 +1,6 @@
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe.config
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.pdb
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.pdb

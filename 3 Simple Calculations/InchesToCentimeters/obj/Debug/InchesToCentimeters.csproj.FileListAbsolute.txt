@@ -1,0 +1,8 @@
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

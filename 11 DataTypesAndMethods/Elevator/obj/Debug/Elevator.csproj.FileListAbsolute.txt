@@ -1,0 +1,6 @@
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Elevator\bin\Debug\Elevator.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Elevator\bin\Debug\Elevator.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Elevator\bin\Debug\Elevator.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Elevator\obj\Debug\Elevator.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Elevator\obj\Debug\Elevator.pdb

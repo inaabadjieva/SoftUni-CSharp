@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\2x2SquaresInMatrix\bin\Debug\2x2SquaresInMatrix.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\2x2SquaresInMatrix\obj\Debug\2x2SquaresInMatrix.pdb

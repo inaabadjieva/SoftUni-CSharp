@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LIS2\bin\Debug\LIS2.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LIS2\bin\Debug\LIS2.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LIS2\bin\Debug\LIS2.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LIS2\obj\Debug\LIS2.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LIS2\obj\Debug\LIS2.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LIS2\obj\Debug\LIS2.pdb

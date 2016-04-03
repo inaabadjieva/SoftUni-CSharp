@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 LoopsAllPossibleCarNums\bin\Debug\4 LoopsAllPossibleCarNums.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 LoopsAllPossibleCarNums\bin\Debug\4 LoopsAllPossibleCarNums.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 LoopsAllPossibleCarNums\bin\Debug\4 LoopsAllPossibleCarNums.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 LoopsAllPossibleCarNums\obj\Debug\4 LoopsAllPossibleCarNums.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 LoopsAllPossibleCarNums\obj\Debug\4 LoopsAllPossibleCarNums.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 LoopsAllPossibleCarNums\obj\Debug\4 LoopsAllPossibleCarNums.pdb

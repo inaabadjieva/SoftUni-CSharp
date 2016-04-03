@@ -1,0 +1,6 @@
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\MasterNumbers\bin\Debug\MasterNumbers.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\MasterNumbers\bin\Debug\MasterNumbers.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\MasterNumbers\obj\Debug\MasterNumbers.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\MasterNumbers\obj\Debug\MasterNumbers.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\MasterNumbers\obj\Debug\MasterNumbers.pdb

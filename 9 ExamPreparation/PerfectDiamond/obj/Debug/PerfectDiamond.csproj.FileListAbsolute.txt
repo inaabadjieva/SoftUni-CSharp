@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PerfectDiamond\bin\Debug\PerfectDiamond.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PerfectDiamond\bin\Debug\PerfectDiamond.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PerfectDiamond\bin\Debug\PerfectDiamond.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PerfectDiamond\obj\Debug\PerfectDiamond.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PerfectDiamond\obj\Debug\PerfectDiamond.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PerfectDiamond\obj\Debug\PerfectDiamond.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\PerfectDiamond\bin\Debug\PerfectDiamond.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\PerfectDiamond\obj\Debug\PerfectDiamond.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\PerfectDiamond\obj\Debug\PerfectDiamond.pdb

@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\SmallShop\bin\Debug\SmallShop.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\SmallShop\bin\Debug\SmallShop.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\SmallShop\obj\Debug\SmallShop.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\SmallShop\obj\Debug\SmallShop.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\SmallShop\obj\Debug\SmallShop.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\SmallShop\bin\Debug\SmallShop.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\SmallShop\obj\Debug\SmallShop.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\SmallShop\obj\Debug\SmallShop.pdb

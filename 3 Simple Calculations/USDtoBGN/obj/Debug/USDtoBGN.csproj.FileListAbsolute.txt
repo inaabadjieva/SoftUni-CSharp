@@ -1,0 +1,8 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\USDtoBGN\bin\Debug\USDtoBGN.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\USDtoBGN\bin\Debug\USDtoBGN.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\USDtoBGN\obj\Debug\USDtoBGN.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\USDtoBGN\obj\Debug\USDtoBGN.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\USDtoBGN\obj\Debug\USDtoBGN.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\USDtoBGN\obj\Debug\USDtoBGN.pdb

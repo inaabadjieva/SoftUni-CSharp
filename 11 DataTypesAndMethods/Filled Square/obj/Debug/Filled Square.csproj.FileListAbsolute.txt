@@ -1,0 +1,6 @@
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Filled Square\bin\Debug\Filled Square.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Filled Square\obj\Debug\Filled Square.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Filled Square\bin\Debug\Filled Square.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Filled Square\bin\Debug\Filled Square.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Filled Square\obj\Debug\Filled Square.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Filled Square\obj\Debug\Filled Square.pdb

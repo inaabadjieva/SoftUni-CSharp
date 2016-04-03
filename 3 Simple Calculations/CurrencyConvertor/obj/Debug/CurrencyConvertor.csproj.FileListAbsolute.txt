@@ -1,0 +1,9 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\CurrencyConvertor\bin\Debug\CurrencyConvertor.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\CurrencyConvertor\obj\Debug\CurrencyConvertor.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\CurrencyConvertor\bin\Debug\CurrencyConvertor.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\CurrencyConvertor\bin\Debug\CurrencyConvertor.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\CurrencyConvertor\obj\Debug\CurrencyConvertor.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\CurrencyConvertor\obj\Debug\CurrencyConvertor.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\CurrencyConvertor\bin\Debug\CurrencyConvertor.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\CurrencyConvertor\obj\Debug\CurrencyConvertor.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\CurrencyConvertor\obj\Debug\CurrencyConvertor.pdb

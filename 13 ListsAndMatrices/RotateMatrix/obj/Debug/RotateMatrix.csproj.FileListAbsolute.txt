@@ -1,0 +1,6 @@
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RotateMatrix\bin\Debug\RotateMatrix.exe.config
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RotateMatrix\bin\Debug\RotateMatrix.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RotateMatrix\bin\Debug\RotateMatrix.pdb
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RotateMatrix\obj\Debug\RotateMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RotateMatrix\obj\Debug\RotateMatrix.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RotateMatrix\obj\Debug\RotateMatrix.pdb

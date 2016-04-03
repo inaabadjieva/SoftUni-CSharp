@@ -1,0 +1,6 @@
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\SumArrays\bin\Debug\SumArrays.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\SumArrays\bin\Debug\SumArrays.exe
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\SumArrays\bin\Debug\SumArrays.pdb
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\SumArrays\obj\Debug\SumArrays.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\SumArrays\obj\Debug\SumArrays.exe
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\SumArrays\obj\Debug\SumArrays.pdb

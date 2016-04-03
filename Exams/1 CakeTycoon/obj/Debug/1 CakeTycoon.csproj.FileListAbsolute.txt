@@ -1,0 +1,2 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 CakeTycoon\bin\Debug\1 CakeTycoon.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 CakeTycoon\obj\Debug\1 CakeTycoon.csprojResolveAssemblyReference.cache
