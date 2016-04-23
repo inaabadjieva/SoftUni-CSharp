@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _5_BitsGroupsSwap
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            uint[] numbers = new uint[4];
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                numbers[i] = uint.Parse(Console.ReadLine());
+            }
+
+            while (true)
+            {
+                string[] from = Console.ReadLine().Split(' ');
+                if (from[0] == "End")
+                {
+                    break;
+                }
+                string[] to = Console.ReadLine().Split(' ');
+
+                int firstNumber = int.Parse(from[0]);
+                int secondNumber = int.Parse(to[0]);
+                int firstGroup = int.Parse(from[1]) * 4;
+                int secondGroup = int.Parse(to[1]) * 4;
+
+                uint fromMask = 15u << firstGroup;
+                uint toMask = 15u << secondGroup;
+                uint fromByte = (numbers[firstNumber] & fromMask) >> firstGroup;
+                uint toByte = (numbers[secondNumber] & toMask) >> secondGroup;
+
+                // zeroing the 2 groups that will be swaped
+                numbers[firstNumber] &= ~fromMask;
+                numbers[secondNumber] &= ~toMask;
+
+                // swaping
+                numbers[firstNumber] |= toByte << firstGroup;
+                numbers[secondNumber] |= fromByte << secondGroup;
+            }
+
+            foreach (var number in numbers)
+            {
+                Console.WriteLine(number);
+            }
+        }
+    }
+}

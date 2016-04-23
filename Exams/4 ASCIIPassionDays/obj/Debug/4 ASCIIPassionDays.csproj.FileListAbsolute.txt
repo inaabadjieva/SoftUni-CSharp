@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 ASCIIPassionDays\bin\Debug\4 ASCIIPassionDays.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 ASCIIPassionDays\bin\Debug\4 ASCIIPassionDays.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 ASCIIPassionDays\bin\Debug\4 ASCIIPassionDays.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 ASCIIPassionDays\obj\Debug\4 ASCIIPassionDays.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 ASCIIPassionDays\obj\Debug\4 ASCIIPassionDays.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 ASCIIPassionDays\obj\Debug\4 ASCIIPassionDays.pdb

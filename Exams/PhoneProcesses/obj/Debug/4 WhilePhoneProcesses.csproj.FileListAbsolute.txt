@@ -1,0 +1,3 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\PhoneProcesses\bin\Debug\PhoneProcesses.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\PhoneProcesses\obj\Debug\PhoneProcesses.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\PhoneProcesses\obj\Debug\PhoneProcesses.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsFlipInsertRemove\bin\Debug\5 BitsFlipInsertRemove.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsFlipInsertRemove\bin\Debug\5 BitsFlipInsertRemove.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsFlipInsertRemove\bin\Debug\5 BitsFlipInsertRemove.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsFlipInsertRemove\obj\Debug\5 BitsFlipInsertRemove.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsFlipInsertRemove\obj\Debug\5 BitsFlipInsertRemove.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsFlipInsertRemove\obj\Debug\5 BitsFlipInsertRemove.pdb
