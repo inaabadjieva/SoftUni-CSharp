@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 MatrixTextBomb\bin\Debug\4 MatrixTextBomb.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 MatrixTextBomb\bin\Debug\4 MatrixTextBomb.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 MatrixTextBomb\bin\Debug\4 MatrixTextBomb.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 MatrixTextBomb\obj\Debug\4 MatrixTextBomb.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 MatrixTextBomb\obj\Debug\4 MatrixTextBomb.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\4 MatrixTextBomb\obj\Debug\4 MatrixTextBomb.pdb

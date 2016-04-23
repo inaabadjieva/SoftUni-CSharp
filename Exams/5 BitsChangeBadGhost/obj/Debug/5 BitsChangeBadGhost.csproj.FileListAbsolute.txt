@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsChangeBadGhost\bin\Debug\5 BitsChangeBadGhost.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsChangeBadGhost\bin\Debug\5 BitsChangeBadGhost.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsChangeBadGhost\bin\Debug\5 BitsChangeBadGhost.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsChangeBadGhost\obj\Debug\5 BitsChangeBadGhost.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsChangeBadGhost\obj\Debug\5 BitsChangeBadGhost.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 BitsChangeBadGhost\obj\Debug\5 BitsChangeBadGhost.pdb
