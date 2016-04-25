@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task_3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+            int middle = n;
+            int width = 2 * n + 3;
+            for (int i = 0; i < n / 2; i++)
+            {
+                Console.WriteLine("{0}\\{1}|{1}/{0}", new string('-', (width - 2 * middle - 3) / 2), new string('-', middle));
+                middle -= 2;
+            }
+            int side = n;
+            for (int i = 0; i < n / 2 + 1; i++)
+            {
+                Console.WriteLine("{0}#{1}#{0}", new string('-', side), new string('.', width - 2 * side - 2));
+                side -= 2;
+            }
+            Console.WriteLine("#{0}#", new string('.', width - 2));
+            side = 1;
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine("{0}#{1}#{0}", new string('-', side), new string('.', width - 2 * side - 2));
+                side++;
+            }
+        }
+    }
+}

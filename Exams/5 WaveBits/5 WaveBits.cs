@@ -67,7 +67,9 @@ namespace _5_WaveBits
                 Console.WriteLine("No waves found!");
             }
             else
-            {
+            {   
+
+
                 Console.WriteLine(outputNumber);
             }
         }
