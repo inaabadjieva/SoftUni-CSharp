@@ -4,3 +4,6 @@ c:\users\ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RemoveNeg
 c:\users\ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
 c:\users\ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.exe
 c:\users\ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\13 ListsAndMatrices\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\13 ListsAndMatrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\13 ListsAndMatrices\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.pdb
