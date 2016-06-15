@@ -1,6 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\Exams\EncodedAnswers\bin\Debug\EncodedAnswers.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\Exams\EncodedAnswers\obj\Debug\EncodedAnswers.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\Exams\EncodedAnswers\bin\Debug\EncodedAnswers.exe
-c:\users\ina\documents\visual studio 2013\Projects\Exams\EncodedAnswers\bin\Debug\EncodedAnswers.pdb
-c:\users\ina\documents\visual studio 2013\Projects\Exams\EncodedAnswers\obj\Debug\EncodedAnswers.exe
-c:\users\ina\documents\visual studio 2013\Projects\Exams\EncodedAnswers\obj\Debug\EncodedAnswers.pdb

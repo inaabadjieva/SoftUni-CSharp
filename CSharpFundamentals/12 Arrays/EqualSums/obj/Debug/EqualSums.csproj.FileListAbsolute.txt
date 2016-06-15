@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\EqualSums\bin\Debug\EqualSums.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\EqualSums\bin\Debug\EqualSums.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\EqualSums\bin\Debug\EqualSums.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\EqualSums\obj\Debug\EqualSums.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\EqualSums\obj\Debug\EqualSums.pdb

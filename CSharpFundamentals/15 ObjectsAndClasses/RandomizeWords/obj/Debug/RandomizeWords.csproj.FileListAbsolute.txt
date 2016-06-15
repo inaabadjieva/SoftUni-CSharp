@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\RandomizeWords\bin\Debug\RandomizeWords.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\RandomizeWords\bin\Debug\RandomizeWords.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\RandomizeWords\bin\Debug\RandomizeWords.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\RandomizeWords\obj\Debug\RandomizeWords.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\RandomizeWords\obj\Debug\RandomizeWords.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\RandomizeWords\obj\Debug\RandomizeWords.pdb

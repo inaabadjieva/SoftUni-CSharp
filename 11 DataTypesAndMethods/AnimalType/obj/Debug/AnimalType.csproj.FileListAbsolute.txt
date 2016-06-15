@@ -1,1 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.exe.config

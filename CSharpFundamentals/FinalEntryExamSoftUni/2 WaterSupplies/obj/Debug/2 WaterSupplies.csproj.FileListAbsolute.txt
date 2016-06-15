@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 WaterSupplies\bin\Debug\2 WaterSupplies.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 WaterSupplies\bin\Debug\2 WaterSupplies.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 WaterSupplies\bin\Debug\2 WaterSupplies.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 WaterSupplies\obj\Debug\2 WaterSupplies.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 WaterSupplies\obj\Debug\2 WaterSupplies.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 WaterSupplies\obj\Debug\2 WaterSupplies.pdb

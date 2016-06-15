@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PalindromeIndex\bin\Debug\PalindromeIndex.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PalindromeIndex\bin\Debug\PalindromeIndex.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PalindromeIndex\bin\Debug\PalindromeIndex.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PalindromeIndex\obj\Debug\PalindromeIndex.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PalindromeIndex\obj\Debug\PalindromeIndex.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PalindromeIndex\obj\Debug\PalindromeIndex.pdb

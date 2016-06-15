@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Greeting\bin\Debug\Greeting.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Greeting\bin\Debug\Greeting.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Greeting\bin\Debug\Greeting.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Greeting\obj\Debug\Greeting.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\Greeting\obj\Debug\Greeting.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\Greeting\obj\Debug\Greeting.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\Greeting\obj\Debug\Greeting.pdb

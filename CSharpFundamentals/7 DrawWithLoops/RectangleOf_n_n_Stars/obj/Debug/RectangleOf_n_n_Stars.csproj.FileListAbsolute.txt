@@ -1,0 +1,10 @@
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RectangleOf_n_n_Stars\bin\Debug\RectangleOf_n_n_Stars.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RectangleOf_n_n_Stars\bin\Debug\RectangleOf_n_n_Stars.exe
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RectangleOf_n_n_Stars\bin\Debug\RectangleOf_n_n_Stars.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RectangleOf_n_n_Stars\obj\Debug\RectangleOf_n_n_Stars.exe
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RectangleOf_n_n_Stars\obj\Debug\RectangleOf_n_n_Stars.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\RectangleOf_n_n_Stars\bin\Debug\RectangleOf_n_n_Stars.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\RectangleOf_n_n_Stars\obj\Debug\RectangleOf_n_n_Stars.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\RectangleOf_n_n_Stars\obj\Debug\RectangleOf_n_n_Stars.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\RectangleOf_n_n_Stars\bin\Debug\RectangleOf_n_n_Stars.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\RectangleOf_n_n_Stars\bin\Debug\RectangleOf_n_n_Stars.pdb

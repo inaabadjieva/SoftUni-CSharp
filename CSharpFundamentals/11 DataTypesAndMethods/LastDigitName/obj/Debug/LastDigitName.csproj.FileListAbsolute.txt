@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\LastDigitName\bin\Debug\LastDigitName.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\LastDigitName\bin\Debug\LastDigitName.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\LastDigitName\bin\Debug\LastDigitName.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\LastDigitName\obj\Debug\LastDigitName.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\LastDigitName\obj\Debug\LastDigitName.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\LastDigitName\obj\Debug\LastDigitName.csprojResolveAssemblyReference.cache

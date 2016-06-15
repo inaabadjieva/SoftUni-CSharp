@@ -1,0 +1,1 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.exe.config

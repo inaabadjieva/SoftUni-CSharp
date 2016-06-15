@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 AniIsDrunk\bin\Debug\2 AniIsDrunk.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 AniIsDrunk\bin\Debug\2 AniIsDrunk.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 AniIsDrunk\bin\Debug\2 AniIsDrunk.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 AniIsDrunk\obj\Debug\2 AniIsDrunk.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 AniIsDrunk\obj\Debug\2 AniIsDrunk.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 AniIsDrunk\obj\Debug\2 AniIsDrunk.pdb

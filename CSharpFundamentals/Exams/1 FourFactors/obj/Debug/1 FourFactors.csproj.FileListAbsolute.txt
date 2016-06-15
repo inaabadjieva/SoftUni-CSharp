@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 FourFactors\bin\Debug\1 FourFactors.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 FourFactors\bin\Debug\1 FourFactors.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 FourFactors\bin\Debug\1 FourFactors.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 FourFactors\obj\Debug\1 FourFactors.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 FourFactors\obj\Debug\1 FourFactors.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 FourFactors\obj\Debug\1 FourFactors.pdb

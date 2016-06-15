@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\RectangleWithStars\bin\Debug\RectangleWithStars.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\RectangleWithStars\bin\Debug\RectangleWithStars.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\RectangleWithStars\bin\Debug\RectangleWithStars.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\RectangleWithStars\obj\Debug\RectangleWithStars.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\RectangleWithStars\obj\Debug\RectangleWithStars.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\RectangleWithStars\obj\Debug\RectangleWithStars.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\RectangleWithStars\bin\Debug\RectangleWithStars.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\RectangleWithStars\obj\Debug\RectangleWithStars.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\RectangleWithStars\obj\Debug\RectangleWithStars.pdb

@@ -1,5 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\RectangleArea\bin\Debug\RectangleArea.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\RectangleArea\bin\Debug\RectangleArea.exe
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\RectangleArea\bin\Debug\RectangleArea.pdb
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\RectangleArea\obj\Debug\RectangleArea.exe
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\RectangleArea\obj\Debug\RectangleArea.pdb

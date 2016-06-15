@@ -1,0 +1,8 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\TriangleArea\bin\Debug\TriangleArea.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\TriangleArea\bin\Debug\TriangleArea.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\TriangleArea\bin\Debug\TriangleArea.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\TriangleArea\obj\Debug\TriangleArea.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\TriangleArea\obj\Debug\TriangleArea.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\TriangleArea\bin\Debug\TriangleArea.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\TriangleArea\obj\Debug\TriangleArea.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\TriangleArea\obj\Debug\TriangleArea.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MaxSequence2\bin\Debug\MaxSequence2.exe.config
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MaxSequence2\bin\Debug\MaxSequence2.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MaxSequence2\bin\Debug\MaxSequence2.pdb
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MaxSequence2\obj\Debug\MaxSequence2.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MaxSequence2\obj\Debug\MaxSequence2.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxSequence2\bin\Debug\MaxSequence2.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxSequence2\obj\Debug\MaxSequence2.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxSequence2\obj\Debug\MaxSequence2.pdb

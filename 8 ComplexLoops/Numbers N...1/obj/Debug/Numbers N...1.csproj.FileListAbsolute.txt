@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Numbers N...1\bin\Debug\Numbers_N._._._1.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Numbers N...1\bin\Debug\Numbers_N._._._1.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Numbers N...1\bin\Debug\Numbers_N._._._1.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Numbers N...1\obj\Debug\Numbers_N._._._1.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Numbers N...1\obj\Debug\Numbers_N._._._1.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\Numbers N...1\bin\Debug\Numbers_N._._._1.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\Numbers N...1\obj\Debug\Numbers_N._._._1.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\Numbers N...1\obj\Debug\Numbers_N._._._1.pdb

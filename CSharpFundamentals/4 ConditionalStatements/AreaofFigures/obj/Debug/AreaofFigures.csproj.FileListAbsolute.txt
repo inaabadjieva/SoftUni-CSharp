@@ -1,0 +1,9 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\AreaofFigures\bin\Debug\AreaofFigures.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\AreaofFigures\obj\Debug\AreaofFigures.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\AreaofFigures\bin\Debug\AreaofFigures.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\AreaofFigures\bin\Debug\AreaofFigures.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\AreaofFigures\obj\Debug\AreaofFigures.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\AreaofFigures\obj\Debug\AreaofFigures.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\AreaofFigures\bin\Debug\AreaofFigures.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\AreaofFigures\obj\Debug\AreaofFigures.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\AreaofFigures\obj\Debug\AreaofFigures.pdb

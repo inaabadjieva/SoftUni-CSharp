@@ -1,5 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\PrintLongSequence\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\PrintLongSequence\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

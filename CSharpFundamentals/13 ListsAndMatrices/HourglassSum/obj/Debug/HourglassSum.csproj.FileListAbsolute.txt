@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\HourglassSum\bin\Debug\HourglassSum.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\HourglassSum\bin\Debug\HourglassSum.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\HourglassSum\bin\Debug\HourglassSum.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\HourglassSum\obj\Debug\HourglassSum.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\HourglassSum\obj\Debug\HourglassSum.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\HourglassSum\obj\Debug\HourglassSum.pdb

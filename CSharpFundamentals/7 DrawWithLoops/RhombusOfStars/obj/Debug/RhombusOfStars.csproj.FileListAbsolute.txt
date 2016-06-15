@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

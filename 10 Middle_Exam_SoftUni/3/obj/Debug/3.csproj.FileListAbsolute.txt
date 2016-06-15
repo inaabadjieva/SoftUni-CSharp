@@ -1,6 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\Middle_Exam_SoftUni\3\bin\Debug\3.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Middle_Exam_SoftUni\3\bin\Debug\3.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Middle_Exam_SoftUni\3\bin\Debug\3.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Middle_Exam_SoftUni\3\obj\Debug\3.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Middle_Exam_SoftUni\3\obj\Debug\3.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Middle_Exam_SoftUni\3\obj\Debug\3.csprojResolveAssemblyReference.cache

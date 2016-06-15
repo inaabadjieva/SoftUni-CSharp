@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\RectangleProperties\bin\Debug\RectangleProperties.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\RectangleProperties\bin\Debug\RectangleProperties.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\RectangleProperties\bin\Debug\RectangleProperties.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\RectangleProperties\obj\Debug\RectangleProperties.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\RectangleProperties\obj\Debug\RectangleProperties.pdb

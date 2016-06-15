@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrimeChecker\bin\Debug\PrimeChecker.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrimeChecker\bin\Debug\PrimeChecker.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrimeChecker\obj\Debug\PrimeChecker.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrimeChecker\obj\Debug\PrimeChecker.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 GrandTheftExamo\bin\Debug\2 GrandTheftExamo.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 GrandTheftExamo\bin\Debug\2 GrandTheftExamo.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 GrandTheftExamo\bin\Debug\2 GrandTheftExamo.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 GrandTheftExamo\obj\Debug\2 GrandTheftExamo.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 GrandTheftExamo\obj\Debug\2 GrandTheftExamo.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 GrandTheftExamo\obj\Debug\2 GrandTheftExamo.pdb

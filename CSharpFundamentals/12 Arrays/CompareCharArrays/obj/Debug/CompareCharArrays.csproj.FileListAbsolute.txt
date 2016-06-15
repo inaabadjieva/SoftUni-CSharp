@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

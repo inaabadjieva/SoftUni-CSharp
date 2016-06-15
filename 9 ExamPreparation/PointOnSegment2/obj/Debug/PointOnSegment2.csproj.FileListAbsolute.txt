@@ -1,2 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\PointOnSegment2\bin\Debug\PointOnSegment2.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\PointOnSegment2\bin\Debug\PointOnSegment2.exe.config

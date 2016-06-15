@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\ArrayTest\bin\Debug\ArrayTest.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\ArrayTest\bin\Debug\ArrayTest.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\ArrayTest\bin\Debug\ArrayTest.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\ArrayTest\obj\Debug\ArrayTest.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\ArrayTest\obj\Debug\ArrayTest.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\ArrayTest\obj\Debug\ArrayTest.pdb

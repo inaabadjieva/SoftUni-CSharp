@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LatinLetters\bin\Debug\LatinLetters.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LatinLetters\bin\Debug\LatinLetters.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LatinLetters\bin\Debug\LatinLetters.pdb
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LatinLetters\obj\Debug\LatinLetters.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LatinLetters\obj\Debug\LatinLetters.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\LatinLetters\bin\Debug\LatinLetters.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\LatinLetters\obj\Debug\LatinLetters.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\LatinLetters\obj\Debug\LatinLetters.pdb

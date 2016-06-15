@@ -1,6 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe
-c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
-c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.exe
-c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.pdb

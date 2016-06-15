@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\BaiIvanAdventures\bin\Debug\BaiIvanAdventures.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\BaiIvanAdventures\bin\Debug\BaiIvanAdventures.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\BaiIvanAdventures\bin\Debug\BaiIvanAdventures.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\BaiIvanAdventures\obj\Debug\1 BaiIvanAdventures.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\BaiIvanAdventures\obj\Debug\BaiIvanAdventures.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\BaiIvanAdventures\obj\Debug\BaiIvanAdventures.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxEqualSequence\bin\Debug\MaxEqualSequence.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxEqualSequence\bin\Debug\MaxEqualSequence.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxEqualSequence\bin\Debug\MaxEqualSequence.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxEqualSequence\obj\Debug\MaxEqualSequence.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxEqualSequence\obj\Debug\MaxEqualSequence.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxEqualSequence\obj\Debug\MaxEqualSequence.pdb

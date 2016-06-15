@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Number1...N With Step 3\bin\Debug\Number1._._.N_With_Step_3.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Number1...N With Step 3\bin\Debug\Number1._._.N_With_Step_3.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Number1...N With Step 3\bin\Debug\Number1._._.N_With_Step_3.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Number1...N With Step 3\obj\Debug\Number1...N With Step 3.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Number1...N With Step 3\obj\Debug\Number1._._.N_With_Step_3.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Number1...N With Step 3\obj\Debug\Number1._._.N_With_Step_3.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\Number1...N With Step 3\bin\Debug\Number1._._.N_With_Step_3.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\Number1...N With Step 3\obj\Debug\Number1._._.N_With_Step_3.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\Number1...N With Step 3\obj\Debug\Number1._._.N_With_Step_3.pdb

@@ -1,5 +1,0 @@
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\AppendLists\bin\Debug\AppendLists.exe.config
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\AppendLists\bin\Debug\AppendLists.exe
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\AppendLists\bin\Debug\AppendLists.pdb
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\AppendLists\obj\Debug\AppendLists.exe
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\AppendLists\obj\Debug\AppendLists.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\Radians-To-Degrees\obj\Debug\Radians-To-Degrees.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\Radians-To-Degrees\obj\Debug\Radians-To-Degrees.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\Radians-To-Degrees\obj\Debug\Radians-To-Degrees.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\Radians-To-Degrees\obj\Debug\Radians-To-Degrees.pdb

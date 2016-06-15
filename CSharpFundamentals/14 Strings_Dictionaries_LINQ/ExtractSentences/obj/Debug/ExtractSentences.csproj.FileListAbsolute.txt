@@ -1,0 +1,11 @@
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ExtractSentences\bin\Debug\ExtractSentences.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ExtractSentences\bin\Debug\ExtractSentences.pdb
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ExtractSentences\obj\Debug\ExtractSentences.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ExtractSentences\obj\Debug\ExtractSentences.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ExtractSentences\bin\Debug\ExtractSentences.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ExtractSentences\obj\Debug\ExtractSentences.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ExtractSentences\obj\Debug\ExtractSentences.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ExtractSentences\bin\Debug\ExtractSentences.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ExtractSentences\bin\Debug\ExtractSentences.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ExtractSentences\obj\Debug\ExtractSentences.csprojResolveAssemblyReference.cache

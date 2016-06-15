@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Capitalization\bin\Debug\Capitalization.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Capitalization\bin\Debug\Capitalization.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Capitalization\bin\Debug\Capitalization.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Capitalization\obj\Debug\Capitalization.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Capitalization\obj\Debug\Capitalization.pdb

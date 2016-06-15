@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\Closest2Points\bin\Debug\Closest2Points.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\Closest2Points\bin\Debug\Closest2Points.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\Closest2Points\bin\Debug\Closest2Points.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\Closest2Points\obj\Debug\Closest2Points.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\Closest2Points\obj\Debug\Closest2Points.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\Closest2Points\obj\Debug\Closest2Points.pdb

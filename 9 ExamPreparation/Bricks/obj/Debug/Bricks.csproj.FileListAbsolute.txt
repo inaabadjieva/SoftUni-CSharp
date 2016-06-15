@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Bricks\bin\Debug\Bricks.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Bricks\bin\Debug\Bricks.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Bricks\bin\Debug\Bricks.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Bricks\obj\Debug\Bricks.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Bricks\obj\Debug\Bricks.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\Bricks\bin\Debug\Bricks.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\Bricks\obj\Debug\Bricks.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\Bricks\obj\Debug\Bricks.pdb

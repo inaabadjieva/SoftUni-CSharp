@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TheBetterMusicProducer\bin\Debug\TheBetterMusicProducer.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TheBetterMusicProducer\obj\Debug\1 TheBetterMusicProducer.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TheBetterMusicProducer\obj\Debug\TheBetterMusicProducer.pdb

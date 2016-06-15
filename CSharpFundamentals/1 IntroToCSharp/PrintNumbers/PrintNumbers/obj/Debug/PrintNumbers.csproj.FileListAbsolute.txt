@@ -1,0 +1,6 @@
+c:\users\ina\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\ina\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\ina\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\ina\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Ina\documents\visual studio 2013\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache

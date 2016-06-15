@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\InstructionSet\bin\Debug\InstructionSet.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\InstructionSet\bin\Debug\InstructionSet.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\InstructionSet\bin\Debug\InstructionSet.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\InstructionSet\obj\Debug\InstructionSet.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\InstructionSet\obj\Debug\InstructionSet.pdb

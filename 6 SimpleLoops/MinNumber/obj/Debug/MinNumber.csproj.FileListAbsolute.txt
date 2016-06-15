@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MinNumber\bin\Debug\MinNumber.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MinNumber\bin\Debug\MinNumber.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MinNumber\bin\Debug\MinNumber.pdb
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MinNumber\obj\Debug\MinNumber.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MinNumber\obj\Debug\MinNumber.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\MinNumber\bin\Debug\MinNumber.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\MinNumber\obj\Debug\MinNumber.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\MinNumber\obj\Debug\MinNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\TourMatrix\bin\Debug\TourMatrix.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\TourMatrix\bin\Debug\TourMatrix.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\TourMatrix\bin\Debug\TourMatrix.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\TourMatrix\obj\Debug\TourMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\TourMatrix\obj\Debug\TourMatrix.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\TourMatrix\obj\Debug\TourMatrix.pdb

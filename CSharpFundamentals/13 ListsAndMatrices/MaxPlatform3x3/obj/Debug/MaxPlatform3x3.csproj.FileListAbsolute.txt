@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxPlatform3x3\bin\Debug\MaxPlatform3x3.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxPlatform3x3\bin\Debug\MaxPlatform3x3.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxPlatform3x3\bin\Debug\MaxPlatform3x3.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxPlatform3x3\obj\Debug\MaxPlatform3x3.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxPlatform3x3\obj\Debug\MaxPlatform3x3.pdb

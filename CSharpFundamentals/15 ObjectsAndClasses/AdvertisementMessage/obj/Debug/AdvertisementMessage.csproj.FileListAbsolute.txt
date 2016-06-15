@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\AdvertisementMessage\bin\Debug\AdvertisementMessage.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\AdvertisementMessage\bin\Debug\AdvertisementMessage.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\AdvertisementMessage\obj\Debug\AdvertisementMessage.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\AdvertisementMessage\obj\Debug\AdvertisementMessage.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\AdvertisementMessage\obj\Debug\AdvertisementMessage.pdb

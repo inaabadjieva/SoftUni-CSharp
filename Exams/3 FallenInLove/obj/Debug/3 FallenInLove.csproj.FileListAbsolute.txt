@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 FallenInLove\bin\Debug\3 FallenInLove.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 FallenInLove\bin\Debug\3 FallenInLove.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 FallenInLove\bin\Debug\3 FallenInLove.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 FallenInLove\obj\Debug\3 FallenInLove.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 FallenInLove\obj\Debug\3 FallenInLove.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 FallenInLove\obj\Debug\3 FallenInLove.pdb

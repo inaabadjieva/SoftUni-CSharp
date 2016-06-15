@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\CountWorkingDays\bin\Debug\CountWorkingDays.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\CountWorkingDays\bin\Debug\CountWorkingDays.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\CountWorkingDays\bin\Debug\CountWorkingDays.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\CountWorkingDays\obj\Debug\CountWorkingDays.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\CountWorkingDays\obj\Debug\CountWorkingDays.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\CountWorkingDays\obj\Debug\CountWorkingDays.pdb

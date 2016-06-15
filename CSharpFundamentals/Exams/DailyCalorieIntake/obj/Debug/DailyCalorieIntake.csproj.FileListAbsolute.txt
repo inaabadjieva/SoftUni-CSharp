@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\DailyCalorieIntake\bin\Debug\DailyCalorieIntake.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\DailyCalorieIntake\obj\Debug\DailyCalorieIntake.pdb

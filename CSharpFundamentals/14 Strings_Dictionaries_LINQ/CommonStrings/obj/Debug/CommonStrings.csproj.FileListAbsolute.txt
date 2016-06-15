@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\CommonStrings\bin\Debug\CommonStrings.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\CommonStrings\bin\Debug\CommonStrings.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\CommonStrings\bin\Debug\CommonStrings.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\CommonStrings\obj\Debug\CommonStrings.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\CommonStrings\obj\Debug\CommonStrings.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\MatrixCells\bin\Debug\MatrixCells.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\MatrixCells\bin\Debug\MatrixCells.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\MatrixCells\bin\Debug\MatrixCells.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\MatrixCells\obj\Debug\MatrixCells.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\MatrixCells\obj\Debug\MatrixCells.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\MatrixCells\obj\Debug\MatrixCells.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\MatrixCells\bin\Debug\MatrixCells.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\MatrixCells\obj\Debug\MatrixCells.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\MatrixCells\obj\Debug\MatrixCells.pdb

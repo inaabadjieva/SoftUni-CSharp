@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

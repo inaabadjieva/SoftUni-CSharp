@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeFloatingPointNums\bin\Debug\PracticeFloatingPointNums.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeFloatingPointNums\bin\Debug\PracticeFloatingPointNums.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeFloatingPointNums\bin\Debug\PracticeFloatingPointNums.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeFloatingPointNums\obj\Debug\PracticeFloatingPointNums.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeFloatingPointNums\obj\Debug\PracticeFloatingPointNums.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeFloatingPointNums\obj\Debug\PracticeFloatingPointNums.pdb

@@ -1,9 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\MetricConverter\bin\Debug\MetricConverter.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\MetricConverter\obj\Debug\MetricConverter.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\MetricConverter\obj\Debug\MetricConverter.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\MetricConverter\obj\Debug\MetricConverter.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\MetricConverter\obj\Debug\MetricConverter.pdb

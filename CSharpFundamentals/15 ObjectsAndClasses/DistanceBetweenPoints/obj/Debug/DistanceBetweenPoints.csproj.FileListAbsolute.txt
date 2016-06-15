@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\15 ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.pdb

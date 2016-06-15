@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 CoffeeOrders\bin\Debug\2 CoffeeOrders.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 CoffeeOrders\bin\Debug\2 CoffeeOrders.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 CoffeeOrders\bin\Debug\2 CoffeeOrders.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 CoffeeOrders\obj\Debug\2 CoffeeOrders.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\2 CoffeeOrders\obj\Debug\2 CoffeeOrders.pdb

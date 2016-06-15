@@ -1,5 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Sequence 2k+1\bin\Debug\Sequence 2k+1.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Sequence 2k+1\obj\Debug\Sequence 2k+1.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\Sequence 2k+1\obj\Debug\Sequence 2k+1.pdb

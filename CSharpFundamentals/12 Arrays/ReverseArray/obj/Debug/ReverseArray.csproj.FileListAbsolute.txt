@@ -1,0 +1,15 @@
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\ReverseArray\bin\Debug\ReverseArray.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\ReverseArray\bin\Debug\ReverseArray.exe
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\ReverseArray\bin\Debug\ReverseArray.pdb
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\ReverseArray\obj\Debug\ReverseArray.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\ReverseArray\obj\Debug\ReverseArray.exe
+c:\users\ina\documents\visual studio 2013\Projects\12 Arrays\ReverseArray\obj\Debug\ReverseArray.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\12 Arrays\ReverseArray\bin\Debug\ReverseArray.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\12 Arrays\ReverseArray\obj\Debug\ReverseArray.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\12 Arrays\ReverseArray\obj\Debug\ReverseArray.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\ReverseArray\bin\Debug\ReverseArray.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\ReverseArray\obj\Debug\ReverseArray.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\ReverseArray\obj\Debug\ReverseArray.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\ReverseArray\bin\Debug\ReverseArray.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\ReverseArray\bin\Debug\ReverseArray.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\ReverseArray\obj\Debug\ReverseArray.csprojResolveAssemblyReference.cache

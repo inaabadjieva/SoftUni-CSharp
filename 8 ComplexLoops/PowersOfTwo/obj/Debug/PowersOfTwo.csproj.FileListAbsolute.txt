@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\PowersOfTwo\obj\Debug\PowersOfTwo.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\PowersOfTwo\obj\Debug\PowersOfTwo.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\PowersOfTwo\obj\Debug\PowersOfTwo.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\PowersOfTwo\obj\Debug\PowersOfTwo.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\PowersOfTwo\obj\Debug\PowersOfTwo.pdb

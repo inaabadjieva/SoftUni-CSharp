@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxSeqEqualElements\bin\Debug\MaxSeqEqualElements.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxSeqEqualElements\bin\Debug\MaxSeqEqualElements.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxSeqEqualElements\bin\Debug\MaxSeqEqualElements.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxSeqEqualElements\obj\Debug\MaxSeqEqualElements.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxSeqEqualElements\obj\Debug\MaxSeqEqualElements.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxSeqEqualElements\obj\Debug\MaxSeqEqualElements.csprojResolveAssemblyReference.cache

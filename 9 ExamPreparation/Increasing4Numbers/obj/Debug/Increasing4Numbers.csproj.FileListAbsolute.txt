@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Increasing4Numbers\obj\Debug\Increasing4Numbers.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Increasing4Numbers\bin\Debug\Increasing4Numbers.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Increasing4Numbers\obj\Debug\Increasing4Numbers.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Increasing4Numbers\obj\Debug\Increasing4Numbers.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\Increasing4Numbers\bin\Debug\Increasing4Numbers.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\Increasing4Numbers\obj\Debug\Increasing4Numbers.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\Increasing4Numbers\obj\Debug\Increasing4Numbers.pdb

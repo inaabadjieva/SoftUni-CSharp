@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\Agein10years\Agein10years\bin\Debug\Agein10years.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\Agein10years\Agein10years\bin\Debug\Agein10years.exe
+c:\users\ina\documents\visual studio 2013\Projects\Agein10years\Agein10years\bin\Debug\Agein10years.pdb
+c:\users\ina\documents\visual studio 2013\Projects\Agein10years\Agein10years\obj\Debug\Agein10years.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\Agein10years\Agein10years\obj\Debug\Agein10years.exe
+c:\users\ina\documents\visual studio 2013\Projects\Agein10years\Agein10years\obj\Debug\Agein10years.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\Agein10years\Agein10years\bin\Debug\Agein10years.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\Agein10years\Agein10years\obj\Debug\Agein10years.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\Agein10years\Agein10years\obj\Debug\Agein10years.pdb

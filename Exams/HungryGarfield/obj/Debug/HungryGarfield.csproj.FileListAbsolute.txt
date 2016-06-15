@@ -1,6 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\Exams\HungryGarfield\bin\Debug\HungryGarfield.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\Exams\HungryGarfield\obj\Debug\HungryGarfield.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\Exams\HungryGarfield\bin\Debug\HungryGarfield.exe
-c:\users\ina\documents\visual studio 2013\Projects\Exams\HungryGarfield\bin\Debug\HungryGarfield.pdb
-c:\users\ina\documents\visual studio 2013\Projects\Exams\HungryGarfield\obj\Debug\HungryGarfield.exe
-c:\users\ina\documents\visual studio 2013\Projects\Exams\HungryGarfield\obj\Debug\HungryGarfield.pdb

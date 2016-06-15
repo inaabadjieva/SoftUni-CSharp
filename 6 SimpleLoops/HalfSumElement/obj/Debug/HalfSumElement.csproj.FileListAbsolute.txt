@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.pdb
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.pdb

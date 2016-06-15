@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House2\bin\Debug\House2.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House2\bin\Debug\House2.exe
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House2\bin\Debug\House2.pdb
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House2\obj\Debug\House2.exe
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House2\obj\Debug\House2.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\House2\bin\Debug\House2.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\House2\obj\Debug\House2.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\House2\obj\Debug\House2.pdb

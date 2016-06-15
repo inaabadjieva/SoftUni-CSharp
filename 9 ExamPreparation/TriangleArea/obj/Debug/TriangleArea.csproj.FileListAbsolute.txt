@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\TriangleArea\bin\Debug\TriangleArea.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\TriangleArea\bin\Debug\TriangleArea.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\TriangleArea\bin\Debug\TriangleArea.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\TriangleArea\obj\Debug\TriangleArea.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\TriangleArea\obj\Debug\TriangleArea.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\TriangleArea\obj\Debug\TriangleArea.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\TriangleArea\bin\Debug\TriangleArea.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\TriangleArea\obj\Debug\TriangleArea.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\TriangleArea\obj\Debug\TriangleArea.pdb

@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\PointInRectangle\bin\Debug\PointInRectangle.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\PointInRectangle\obj\Debug\PointInRectangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 ImpressTheGirlfriend\bin\Debug\1 ImpressTheGirlfriend.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 ImpressTheGirlfriend\bin\Debug\1 ImpressTheGirlfriend.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 ImpressTheGirlfriend\bin\Debug\1 ImpressTheGirlfriend.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 ImpressTheGirlfriend\obj\Debug\1 ImpressTheGirlfriend.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 ImpressTheGirlfriend\obj\Debug\1 ImpressTheGirlfriend.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\1 ImpressTheGirlfriend\obj\Debug\1 ImpressTheGirlfriend.pdb

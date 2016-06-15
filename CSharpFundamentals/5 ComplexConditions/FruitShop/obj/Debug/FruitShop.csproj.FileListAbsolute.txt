@@ -1,0 +1,9 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\FruitShop\bin\Debug\FruitShop.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\FruitShop\obj\Debug\FruitShop.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\FruitShop\bin\Debug\FruitShop.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\FruitShop\bin\Debug\FruitShop.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\FruitShop\obj\Debug\FruitShop.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\FruitShop\obj\Debug\FruitShop.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\FruitShop\bin\Debug\FruitShop.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\FruitShop\obj\Debug\FruitShop.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\FruitShop\obj\Debug\FruitShop.pdb

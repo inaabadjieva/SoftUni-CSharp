@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\IntegerToHex_Binary\bin\Debug\IntegerToHex_Binary.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\IntegerToHex_Binary\bin\Debug\IntegerToHex_Binary.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\IntegerToHex_Binary\bin\Debug\IntegerToHex_Binary.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\IntegerToHex_Binary\obj\Debug\IntegerToHex_Binary.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\IntegerToHex_Binary\obj\Debug\IntegerToHex_Binary.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\IntegerToHex_Binary\obj\Debug\IntegerToHex_Binary.pdb

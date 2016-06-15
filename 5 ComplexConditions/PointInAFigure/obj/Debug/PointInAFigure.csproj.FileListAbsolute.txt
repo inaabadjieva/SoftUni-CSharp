@@ -1,9 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointInAFigure\bin\Debug\PointInAFigure.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointInAFigure\bin\Debug\PointInAFigure.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointInAFigure\bin\Debug\PointInAFigure.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointInAFigure\obj\Debug\PointInAFigure.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointInAFigure\obj\Debug\PointInAFigure.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointInAFigure\obj\Debug\PointInAFigure.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\PointInAFigure\bin\Debug\PointInAFigure.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\PointInAFigure\obj\Debug\PointInAFigure.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\PointInAFigure\obj\Debug\PointInAFigure.pdb

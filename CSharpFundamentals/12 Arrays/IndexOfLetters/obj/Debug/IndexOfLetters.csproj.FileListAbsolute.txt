@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\IndexOfLetters\bin\Debug\IndexOfLetters.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\IndexOfLetters\obj\Debug\IndexOfLetters.pdb

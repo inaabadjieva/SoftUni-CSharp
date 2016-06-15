@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\OddEvenPosition\bin\Debug\OddEvenPosition.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\OddEvenPosition\obj\Debug\OddEvenPosition.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\OddEvenPosition\obj\Debug\OddEvenPosition.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\OddEvenPosition\obj\Debug\OddEvenPosition.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\OddEvenPosition\obj\Debug\OddEvenPosition.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

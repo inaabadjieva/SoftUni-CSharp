@@ -1,0 +1,2 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\0 MatrixReadingPrinting\bin\Debug\0 MatrixReadingPrinting.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\Exams\0 MatrixReadingPrinting\bin\Debug\0 MatrixReadingPrinting.exe.config

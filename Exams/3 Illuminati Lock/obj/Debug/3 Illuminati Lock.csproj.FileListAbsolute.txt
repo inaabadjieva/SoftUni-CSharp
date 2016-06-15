@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 Illuminati Lock\bin\Debug\3 Illuminati Lock.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 Illuminati Lock\bin\Debug\3 Illuminati Lock.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 Illuminati Lock\bin\Debug\3 Illuminati Lock.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 Illuminati Lock\obj\Debug\3 Illuminati Lock.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 Illuminati Lock\obj\Debug\3 Illuminati Lock.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 Illuminati Lock\obj\Debug\3 Illuminati Lock.csprojResolveAssemblyReference.cache

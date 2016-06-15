@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\Equal Pairs\bin\Debug\Equal Pairs.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\Equal Pairs\bin\Debug\Equal Pairs.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\Equal Pairs\bin\Debug\Equal Pairs.pdb
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\Equal Pairs\obj\Debug\Equal Pairs.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\Equal Pairs\obj\Debug\Equal Pairs.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\Equal Pairs\obj\Debug\Equal Pairs.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\Equal Pairs\bin\Debug\Equal Pairs.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\Equal Pairs\obj\Debug\Equal Pairs.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\Equal Pairs\obj\Debug\Equal Pairs.pdb

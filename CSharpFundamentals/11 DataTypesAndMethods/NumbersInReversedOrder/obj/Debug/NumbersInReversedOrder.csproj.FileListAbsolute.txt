@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb

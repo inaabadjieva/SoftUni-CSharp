@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\HelloName!\bin\Debug\HelloName!.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\HelloName!\bin\Debug\HelloName!.exe
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\HelloName!\bin\Debug\HelloName!.pdb
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\HelloName!\obj\Debug\HelloName!.exe
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\HelloName!\obj\Debug\HelloName!.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\HelloName!\bin\Debug\HelloName!.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\HelloName!\obj\Debug\HelloName!.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\HelloName!\obj\Debug\HelloName!.pdb

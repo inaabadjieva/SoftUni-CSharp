@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\Quest\bin\Debug\Quest.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\Quest\bin\Debug\Quest.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\Quest\bin\Debug\Quest.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\Quest\obj\Debug\Quest.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\Quest\obj\Debug\Quest.pdb

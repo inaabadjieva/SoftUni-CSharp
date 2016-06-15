@@ -1,0 +1,8 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

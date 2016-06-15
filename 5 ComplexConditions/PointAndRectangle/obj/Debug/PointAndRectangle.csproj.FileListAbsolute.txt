@@ -1,9 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointAndRectangle\bin\Debug\PointAndRectangle.dll.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointAndRectangle\bin\Debug\PointAndRectangle.dll
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointAndRectangle\bin\Debug\PointAndRectangle.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointAndRectangle\obj\Debug\PointAndRectangle.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointAndRectangle\obj\Debug\PointAndRectangle.Form1.resources
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointAndRectangle\obj\Debug\PointAndRectangle.Properties.Resources.resources
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointAndRectangle\obj\Debug\PointAndRectangle.csproj.GenerateResource.Cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointAndRectangle\obj\Debug\PointAndRectangle.dll
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\PointAndRectangle\obj\Debug\PointAndRectangle.pdb

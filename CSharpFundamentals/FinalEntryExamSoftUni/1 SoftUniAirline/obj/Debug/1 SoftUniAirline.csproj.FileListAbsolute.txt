@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\1 SoftUniAirline\bin\Debug\1 SoftUniAirline.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\1 SoftUniAirline\bin\Debug\1 SoftUniAirline.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\1 SoftUniAirline\bin\Debug\1 SoftUniAirline.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\1 SoftUniAirline\obj\Debug\1 SoftUniAirline.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\1 SoftUniAirline\obj\Debug\1 SoftUniAirline.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\1 SoftUniAirline\obj\Debug\1 SoftUniAirline.pdb

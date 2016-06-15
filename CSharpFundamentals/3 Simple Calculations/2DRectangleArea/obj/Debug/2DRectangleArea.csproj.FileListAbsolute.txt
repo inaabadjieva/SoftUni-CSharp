@@ -1,0 +1,8 @@
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\2DRectangleArea\bin\Debug\2DRectangleArea.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\2DRectangleArea\bin\Debug\2DRectangleArea.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\2DRectangleArea\bin\Debug\2DRectangleArea.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\2DRectangleArea\obj\Debug\2DRectangleArea.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\2DRectangleArea\obj\Debug\2DRectangleArea.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\2DRectangleArea\bin\Debug\2DRectangleArea.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\2DRectangleArea\obj\Debug\2DRectangleArea.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\2DRectangleArea\obj\Debug\2DRectangleArea.pdb

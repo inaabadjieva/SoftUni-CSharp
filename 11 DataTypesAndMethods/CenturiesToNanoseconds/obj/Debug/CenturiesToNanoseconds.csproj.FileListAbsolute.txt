@@ -1,6 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

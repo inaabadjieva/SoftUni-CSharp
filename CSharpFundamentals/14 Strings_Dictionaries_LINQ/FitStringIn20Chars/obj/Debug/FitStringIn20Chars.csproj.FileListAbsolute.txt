@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.exe.config
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FitStringIn20Chars\bin\Debug\FitStringIn20Chars.pdb
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FitStringIn20Chars\obj\Debug\FitStringIn20Chars.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FitStringIn20Chars\obj\Debug\FitStringIn20Chars.pdb

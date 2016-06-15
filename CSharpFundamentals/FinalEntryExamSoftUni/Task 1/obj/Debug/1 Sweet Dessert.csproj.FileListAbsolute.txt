@@ -1,0 +1,9 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 1\bin\Debug\Task 1.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 1\obj\Debug\1 Sweet Dessert.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 1\obj\Debug\Task 1.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 1\obj\Debug\Task 1.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\Task 1\obj\Debug\Task 1.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\Task 1\obj\Debug\Task 1.pdb

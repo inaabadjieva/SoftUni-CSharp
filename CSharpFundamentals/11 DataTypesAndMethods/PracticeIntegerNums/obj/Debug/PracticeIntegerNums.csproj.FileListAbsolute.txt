@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeIntegerNums\bin\Debug\PracticeIntegerNums.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeIntegerNums\bin\Debug\PracticeIntegerNums.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeIntegerNums\bin\Debug\PracticeIntegerNums.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeIntegerNums\obj\Debug\PracticeIntegerNums.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeIntegerNums\obj\Debug\PracticeIntegerNums.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PracticeIntegerNums\obj\Debug\PracticeIntegerNums.pdb

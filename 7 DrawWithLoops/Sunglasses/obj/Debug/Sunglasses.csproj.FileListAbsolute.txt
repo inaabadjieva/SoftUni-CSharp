@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Sunglasses\bin\Debug\Sunglasses.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Sunglasses\bin\Debug\Sunglasses.exe
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Sunglasses\bin\Debug\Sunglasses.pdb
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Sunglasses\obj\Debug\Sunglasses.exe
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Sunglasses\obj\Debug\Sunglasses.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\Sunglasses\bin\Debug\Sunglasses.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\Sunglasses\obj\Debug\Sunglasses.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\Sunglasses\obj\Debug\Sunglasses.pdb

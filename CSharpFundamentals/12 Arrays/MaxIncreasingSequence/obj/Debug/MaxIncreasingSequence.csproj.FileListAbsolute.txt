@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxIncreasingSequence\bin\Debug\MaxIncreasingSequence.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxIncreasingSequence\bin\Debug\MaxIncreasingSequence.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxIncreasingSequence\bin\Debug\MaxIncreasingSequence.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxIncreasingSequence\obj\Debug\MaxIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxIncreasingSequence\obj\Debug\MaxIncreasingSequence.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MaxIncreasingSequence\obj\Debug\MaxIncreasingSequence.pdb

@@ -1,8 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\TimePlus15Minutes\bin\Debug\TimePlus15Minutes.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\TimePlus15Minutes\obj\Debug\TimePlus15Minutes.pdb

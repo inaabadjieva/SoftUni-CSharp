@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\HexInDecimalFormat\bin\Debug\HexInDecimalFormat.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\HexInDecimalFormat\bin\Debug\HexInDecimalFormat.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\HexInDecimalFormat\bin\Debug\HexInDecimalFormat.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\HexInDecimalFormat\obj\Debug\HexInDecimalFormat.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\HexInDecimalFormat\obj\Debug\HexInDecimalFormat.pdb

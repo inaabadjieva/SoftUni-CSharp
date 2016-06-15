@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 TeleportPoints\bin\Debug\4 TeleportPoints.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 TeleportPoints\bin\Debug\4 TeleportPoints.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 TeleportPoints\bin\Debug\4 TeleportPoints.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 TeleportPoints\obj\Debug\4 TeleportPoints.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 TeleportPoints\obj\Debug\4 TeleportPoints.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\4 TeleportPoints\obj\Debug\4 TeleportPoints.pdb

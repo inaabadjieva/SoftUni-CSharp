@@ -1,0 +1,2 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe.config

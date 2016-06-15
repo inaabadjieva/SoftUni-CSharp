@@ -1,8 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\Volleyball\bin\Debug\Volleyball.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\Volleyball\bin\Debug\Volleyball.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\Volleyball\bin\Debug\Volleyball.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\Volleyball\obj\Debug\Volleyball.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\Volleyball\obj\Debug\Volleyball.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\Volleyball\bin\Debug\Volleyball.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\Volleyball\obj\Debug\Volleyball.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\Volleyball\obj\Debug\Volleyball.pdb

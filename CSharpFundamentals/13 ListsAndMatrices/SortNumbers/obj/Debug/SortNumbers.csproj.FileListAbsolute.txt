@@ -1,0 +1,9 @@
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SortNumbers\bin\Debug\SortNumbers.exe.config
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SortNumbers\bin\Debug\SortNumbers.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SortNumbers\bin\Debug\SortNumbers.pdb
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SortNumbers\obj\Debug\SortNumbers.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\SortNumbers\obj\Debug\SortNumbers.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\SortNumbers\bin\Debug\SortNumbers.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\SortNumbers\obj\Debug\SortNumbers.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\SortNumbers\obj\Debug\SortNumbers.pdb

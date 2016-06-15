@@ -1,0 +1,5 @@
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Num1to20\bin\Debug\Num1to20.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Num1to20\bin\Debug\Num1to20.exe
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Num1to20\bin\Debug\Num1to20.pdb
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Num1to20\obj\Debug\Num1to20.exe
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Num1to20\obj\Debug\Num1to20.pdb

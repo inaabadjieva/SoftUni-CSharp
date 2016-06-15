@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\GenerateRectangle\bin\Debug\GenerateRectangle.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\GenerateRectangle\bin\Debug\GenerateRectangle.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\GenerateRectangle\bin\Debug\GenerateRectangle.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\GenerateRectangle\obj\Debug\GenerateRectangle.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\GenerateRectangle\obj\Debug\GenerateRectangle.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\GenerateRectangle\obj\Debug\GenerateRectangle.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\GenerateRectangle\bin\Debug\GenerateRectangle.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\GenerateRectangle\obj\Debug\GenerateRectangle.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\GenerateRectangle\obj\Debug\GenerateRectangle.pdb

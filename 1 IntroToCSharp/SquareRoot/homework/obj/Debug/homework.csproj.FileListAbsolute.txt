@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\SquareRoot\homework\bin\Debug\homework.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\SquareRoot\homework\bin\Debug\homework.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\SquareRoot\homework\bin\Debug\homework.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\SquareRoot\homework\obj\Debug\homework.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\SquareRoot\homework\obj\Debug\homework.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\1 IntroToCSharp\SquareRoot\homework\obj\Debug\homework.pdb

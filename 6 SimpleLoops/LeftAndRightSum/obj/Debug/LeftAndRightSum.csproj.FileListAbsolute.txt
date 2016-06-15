@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

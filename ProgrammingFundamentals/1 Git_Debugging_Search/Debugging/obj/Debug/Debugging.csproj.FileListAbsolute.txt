@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\bin\Debug\Debugging.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\obj\Debug\Debugging.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\obj\Debug\Debugging.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\obj\Debug\Debugging.pdb

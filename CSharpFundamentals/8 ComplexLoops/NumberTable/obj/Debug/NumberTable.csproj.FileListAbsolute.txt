@@ -1,0 +1,8 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberTable\bin\Debug\NumberTable.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberTable\bin\Debug\NumberTable.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberTable\bin\Debug\NumberTable.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberTable\obj\Debug\NumberTable.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberTable\obj\Debug\NumberTable.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\NumberTable\bin\Debug\NumberTable.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\NumberTable\obj\Debug\NumberTable.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\NumberTable\obj\Debug\NumberTable.pdb

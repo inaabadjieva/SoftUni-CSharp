@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\5 MatrixOperator\bin\Debug\5 MatrixOperator.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\5 MatrixOperator\bin\Debug\5 MatrixOperator.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\5 MatrixOperator\bin\Debug\5 MatrixOperator.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\5 MatrixOperator\obj\Debug\5 MatrixOperator.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\5 MatrixOperator\obj\Debug\5 MatrixOperator.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\5 MatrixOperator\obj\Debug\5 MatrixOperator.pdb

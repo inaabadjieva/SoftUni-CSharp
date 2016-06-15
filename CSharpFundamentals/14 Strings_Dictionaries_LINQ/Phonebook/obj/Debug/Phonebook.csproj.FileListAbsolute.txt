@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\Phonebook\obj\Debug\Phonebook.pdb

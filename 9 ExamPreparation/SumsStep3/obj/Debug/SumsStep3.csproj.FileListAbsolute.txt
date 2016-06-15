@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\SumsStep3\bin\Debug\SumsStep3.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\SumsStep3\bin\Debug\SumsStep3.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\SumsStep3\bin\Debug\SumsStep3.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\SumsStep3\obj\Debug\SumsStep3.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\SumsStep3\obj\Debug\SumsStep3.exe
-c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\SumsStep3\obj\Debug\SumsStep3.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\SumsStep3\bin\Debug\SumsStep3.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\SumsStep3\obj\Debug\SumsStep3.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\SumsStep3\obj\Debug\SumsStep3.pdb

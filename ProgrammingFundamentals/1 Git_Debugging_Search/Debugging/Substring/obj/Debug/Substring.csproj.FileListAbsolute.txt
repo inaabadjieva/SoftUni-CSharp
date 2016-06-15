@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\Substring\bin\Debug\Substring.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\Substring\bin\Debug\Substring.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\Substring\bin\Debug\Substring.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\Substring\obj\Debug\Substring.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\Substring\obj\Debug\Substring.pdb

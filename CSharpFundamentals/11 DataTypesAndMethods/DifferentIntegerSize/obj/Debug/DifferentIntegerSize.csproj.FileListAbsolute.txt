@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\DifferentIntegerSize\bin\Debug\DifferentIntegerSize.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\DifferentIntegerSize\bin\Debug\DifferentIntegerSize.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\DifferentIntegerSize\bin\Debug\DifferentIntegerSize.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\DifferentIntegerSize\obj\Debug\DifferentIntegerSize.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\DifferentIntegerSize\obj\Debug\DifferentIntegerSize.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\DifferentIntegerSize\obj\Debug\DifferentIntegerSize.pdb

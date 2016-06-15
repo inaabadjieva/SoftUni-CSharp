@@ -1,6 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Triangleof55Stars\bin\Debug\Triangleof55Stars.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Triangleof55Stars\obj\Debug\Triangleof55Stars.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Triangleof55Stars\bin\Debug\Triangleof55Stars.exe
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Triangleof55Stars\bin\Debug\Triangleof55Stars.pdb
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Triangleof55Stars\obj\Debug\Triangleof55Stars.exe
-c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Triangleof55Stars\obj\Debug\Triangleof55Stars.pdb

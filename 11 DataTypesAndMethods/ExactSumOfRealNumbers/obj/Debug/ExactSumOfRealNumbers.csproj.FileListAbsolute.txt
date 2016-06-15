@@ -1,6 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
-c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MostFrequentNum\bin\Debug\MostFrequentNum.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MostFrequentNum\bin\Debug\MostFrequentNum.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MostFrequentNum\bin\Debug\MostFrequentNum.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MostFrequentNum\obj\Debug\MostFrequentNum.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MostFrequentNum\obj\Debug\MostFrequentNum.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\MostFrequentNum\obj\Debug\MostFrequentNum.csprojResolveAssemblyReference.cache

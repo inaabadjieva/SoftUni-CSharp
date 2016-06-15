@@ -1,0 +1,6 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 StripTowel\bin\Debug\3 StripTowel.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 StripTowel\obj\Debug\3 StripTowel.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 StripTowel\bin\Debug\3 StripTowel.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 StripTowel\bin\Debug\3 StripTowel.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 StripTowel\obj\Debug\3 StripTowel.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 StripTowel\obj\Debug\3 StripTowel.pdb

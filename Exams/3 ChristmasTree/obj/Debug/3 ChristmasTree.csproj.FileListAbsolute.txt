@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 ChristmasTree\bin\Debug\3 ChristmasTree.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 ChristmasTree\obj\Debug\3 ChristmasTree.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 ChristmasTree\bin\Debug\3 ChristmasTree.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 ChristmasTree\bin\Debug\3 ChristmasTree.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 ChristmasTree\obj\Debug\3 ChristmasTree.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 ChristmasTree\obj\Debug\3 ChristmasTree.pdb

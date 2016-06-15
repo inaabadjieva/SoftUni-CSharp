@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\SumReversedNumbers\bin\Debug\SumReversedNumbers.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\SumReversedNumbers\obj\Debug\SumReversedNumbers.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\SumReversedNumbers\obj\Debug\SumReversedNumbers.pdb

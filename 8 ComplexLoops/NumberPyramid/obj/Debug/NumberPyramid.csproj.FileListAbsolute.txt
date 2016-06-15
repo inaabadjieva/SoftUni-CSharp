@@ -1,8 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberPyramid\bin\Debug\NumberPyramid.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberPyramid\bin\Debug\NumberPyramid.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberPyramid\bin\Debug\NumberPyramid.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberPyramid\obj\Debug\NumberPyramid.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\NumberPyramid\obj\Debug\NumberPyramid.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\NumberPyramid\bin\Debug\NumberPyramid.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\NumberPyramid\obj\Debug\NumberPyramid.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\NumberPyramid\obj\Debug\NumberPyramid.pdb

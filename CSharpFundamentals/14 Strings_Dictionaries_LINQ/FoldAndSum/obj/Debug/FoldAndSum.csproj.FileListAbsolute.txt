@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FoldAndSum\bin\Debug\FoldAndSum.exe.config
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FoldAndSum\bin\Debug\FoldAndSum.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FoldAndSum\bin\Debug\FoldAndSum.pdb
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FoldAndSum\obj\Debug\FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FoldAndSum\obj\Debug\FoldAndSum.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\FoldAndSum\obj\Debug\FoldAndSum.pdb

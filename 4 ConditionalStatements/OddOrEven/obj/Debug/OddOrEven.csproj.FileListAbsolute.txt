@@ -1,8 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\OddOrEven\bin\Debug\OddOrEven.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\OddOrEven\bin\Debug\OddOrEven.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\OddOrEven\bin\Debug\OddOrEven.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\OddOrEven\obj\Debug\OddOrEven.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\OddOrEven\obj\Debug\OddOrEven.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\OddOrEven\bin\Debug\OddOrEven.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\OddOrEven\obj\Debug\OddOrEven.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\OddOrEven\obj\Debug\OddOrEven.pdb

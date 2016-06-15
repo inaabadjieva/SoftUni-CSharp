@@ -1,0 +1,2 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\NumberToText\bin\Debug\NumberToText.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\NumberToText\bin\Debug\NumberToText.exe.config

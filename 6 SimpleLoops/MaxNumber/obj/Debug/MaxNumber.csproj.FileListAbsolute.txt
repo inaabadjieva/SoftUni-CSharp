@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MaxNumber\bin\Debug\MaxNumber.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MaxNumber\bin\Debug\MaxNumber.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MaxNumber\bin\Debug\MaxNumber.pdb
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MaxNumber\obj\Debug\MaxNumber.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\MaxNumber\obj\Debug\MaxNumber.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\MaxNumber\bin\Debug\MaxNumber.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\MaxNumber\obj\Debug\MaxNumber.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\MaxNumber\obj\Debug\MaxNumber.pdb

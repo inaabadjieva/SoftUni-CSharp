@@ -1,0 +1,2 @@
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\DaysOfWeek\bin\Debug\DaysOfWeek.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\DaysOfWeek\bin\Debug\DaysOfWeek.exe.config

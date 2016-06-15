@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

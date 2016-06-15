@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ReverseWordsInSentence\bin\Debug\ReverseWordsInSentence.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ReverseWordsInSentence\obj\Debug\ReverseWordsInSentence.pdb

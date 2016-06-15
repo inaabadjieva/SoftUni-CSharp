@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

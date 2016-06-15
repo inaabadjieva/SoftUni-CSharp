@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\ReverseString\obj\Debug\ReverseString.pdb

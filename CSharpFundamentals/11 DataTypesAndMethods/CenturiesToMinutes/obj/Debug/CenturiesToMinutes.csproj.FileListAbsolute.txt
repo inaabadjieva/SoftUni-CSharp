@@ -1,0 +1,2 @@
+c:\users\ina\documents\visual studio 2013\Projects\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config

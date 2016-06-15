@@ -1,0 +1,15 @@
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\SquareArea\bin\Debug\SquareArea.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\SquareArea\obj\Debug\SquareArea.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\SquareArea\bin\Debug\SquareArea.exe
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\SquareArea\bin\Debug\SquareArea.pdb
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\SquareArea\obj\Debug\SquareArea.exe
+c:\users\ina\documents\visual studio 2013\Projects\Solution1\SquareArea\obj\Debug\SquareArea.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Coding\SquareArea\bin\Debug\SquareArea.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Coding\SquareArea\obj\Debug\SquareArea.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Coding\SquareArea\obj\Debug\SquareArea.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\SquareArea\bin\Debug\SquareArea.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\SquareArea\obj\Debug\SquareArea.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\SquareArea\obj\Debug\SquareArea.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\3 Simple Calculations\SquareArea\bin\Debug\SquareArea.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\3 Simple Calculations\SquareArea\obj\Debug\SquareArea.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\3 Simple Calculations\SquareArea\obj\Debug\SquareArea.pdb

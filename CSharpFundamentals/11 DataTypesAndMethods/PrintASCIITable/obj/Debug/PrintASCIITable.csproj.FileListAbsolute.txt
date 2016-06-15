@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\11 DataTypesAndMethods\PrintASCIITable\obj\Debug\PrintASCIITable.pdb

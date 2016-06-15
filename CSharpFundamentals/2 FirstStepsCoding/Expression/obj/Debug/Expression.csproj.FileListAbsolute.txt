@@ -1,0 +1,5 @@
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Expression\bin\Debug\Expression.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Expression\bin\Debug\Expression.exe
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Expression\bin\Debug\Expression.pdb
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Expression\obj\Debug\Expression.exe
+c:\users\ina\documents\visual studio 2013\Projects\FirstStepsCoding\Expression\obj\Debug\Expression.pdb

@@ -1,6 +1,0 @@
-C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 4\bin\Debug\Task 4.exe.config
-C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 4\bin\Debug\Task 4.exe
-C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 4\bin\Debug\Task 4.pdb
-C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 4\obj\Debug\4 ArrayModifier.csprojResolveAssemblyReference.cache
-C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 4\obj\Debug\Task 4.exe
-C:\Users\Ina PC\Documents\Projects\SoftUni\FinalEntryExamSoftUni\Task 4\obj\Debug\Task 4.pdb

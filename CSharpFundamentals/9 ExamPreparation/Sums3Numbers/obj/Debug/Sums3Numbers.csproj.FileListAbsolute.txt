@@ -1,0 +1,9 @@
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Sums3Numbers\bin\Debug\Sums3Numbers.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Sums3Numbers\bin\Debug\Sums3Numbers.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Sums3Numbers\bin\Debug\Sums3Numbers.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Sums3Numbers\obj\Debug\Sums3Numbers.csprojResolveAssemblyReference.cache
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Sums3Numbers\obj\Debug\Sums3Numbers.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\Sums3Numbers\obj\Debug\Sums3Numbers.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\Sums3Numbers\bin\Debug\Sums3Numbers.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\Sums3Numbers\obj\Debug\Sums3Numbers.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\Sums3Numbers\obj\Debug\Sums3Numbers.pdb

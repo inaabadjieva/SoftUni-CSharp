@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\SumNumbers\bin\Debug\SumNumbers.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\SumNumbers\bin\Debug\SumNumbers.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\SumNumbers\bin\Debug\SumNumbers.pdb
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\SumNumbers\obj\Debug\SumNumbers.exe
-c:\users\ina\documents\visual studio 2013\Projects\SimpleLoops\SumNumbers\obj\Debug\SumNumbers.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\SumNumbers\bin\Debug\SumNumbers.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\SumNumbers\obj\Debug\SumNumbers.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\6 SimpleLoops\SumNumbers\obj\Debug\SumNumbers.pdb

@@ -1,0 +1,3 @@
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MaxSequenceEqualElements\bin\Debug\MaxSequenceEqualElements.exe.config
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MaxSequenceEqualElements\obj\Debug\MaxSequenceEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MaxSequenceEqualElements\bin\Debug\MaxSequenceEqualElements.exe.config

@@ -1,0 +1,2 @@
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\SpeedInfo\bin\Debug\SpeedInfo.exe.config

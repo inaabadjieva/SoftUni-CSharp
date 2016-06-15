@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\GreatestCommonDiviser\bin\Debug\GreatestCommonDiviser.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\GreatestCommonDiviser\bin\Debug\GreatestCommonDiviser.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\GreatestCommonDiviser\bin\Debug\GreatestCommonDiviser.pdb
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\GreatestCommonDiviser\obj\Debug\GreatestCommonDiviser.exe
-c:\users\ina\documents\visual studio 2013\Projects\ComplexLoops\GreatestCommonDiviser\obj\Debug\GreatestCommonDiviser.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\GreatestCommonDiviser\bin\Debug\GreatestCommonDiviser.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\GreatestCommonDiviser\obj\Debug\GreatestCommonDiviser.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\GreatestCommonDiviser\obj\Debug\GreatestCommonDiviser.pdb

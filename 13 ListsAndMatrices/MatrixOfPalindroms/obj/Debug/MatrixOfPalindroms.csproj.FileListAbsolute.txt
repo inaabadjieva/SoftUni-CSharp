@@ -1,6 +1,0 @@
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfPalindroms\bin\Debug\MatrixOfPalindroms.exe.config
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfPalindroms\bin\Debug\MatrixOfPalindroms.exe
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfPalindroms\bin\Debug\MatrixOfPalindroms.pdb
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfPalindroms\obj\Debug\MatrixOfPalindroms.csprojResolveAssemblyReference.cache
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfPalindroms\obj\Debug\MatrixOfPalindroms.exe
-C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfPalindroms\obj\Debug\MatrixOfPalindroms.pdb

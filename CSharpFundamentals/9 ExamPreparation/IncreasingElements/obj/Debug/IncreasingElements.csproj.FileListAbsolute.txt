@@ -1,0 +1,12 @@
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\IncreasingElements\bin\Debug\IncreasingElements.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\IncreasingElements\bin\Debug\IncreasingElements.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\IncreasingElements\bin\Debug\IncreasingElements.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\IncreasingElements\obj\Debug\IncreasingElements.exe
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\IncreasingElements\obj\Debug\IncreasingElements.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ExamPreparation\IncreasingElements\obj\Debug\IncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\IncreasingElements\bin\Debug\IncreasingElements.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\IncreasingElements\obj\Debug\IncreasingElements.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\IncreasingElements\obj\Debug\IncreasingElements.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\IncreasingElements\bin\Debug\IncreasingElements.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\IncreasingElements\bin\Debug\IncreasingElements.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\9 ExamPreparation\IncreasingElements\obj\Debug\IncreasingElements.csprojResolveAssemblyReference.cache

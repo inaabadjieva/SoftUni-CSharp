@@ -1,0 +1,8 @@
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointOnBorder\bin\Debug\PointOnBorder.exe.config
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointOnBorder\bin\Debug\PointOnBorder.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointOnBorder\bin\Debug\PointOnBorder.pdb
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointOnBorder\obj\Debug\PointOnBorder.exe
+c:\users\ina\documents\visual studio 2013\Projects\ComplexConditions\PointOnBorder\obj\Debug\PointOnBorder.pdb
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\PointOnBorder\bin\Debug\PointOnBorder.exe.config
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\PointOnBorder\obj\Debug\PointOnBorder.exe
+C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\PointOnBorder\obj\Debug\PointOnBorder.pdb

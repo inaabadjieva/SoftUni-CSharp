@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TakeThePlaneDown\bin\Debug\TakeThePlaneDown.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\TakeThePlaneDown\obj\Debug\TakeThePlaneDown.pdb

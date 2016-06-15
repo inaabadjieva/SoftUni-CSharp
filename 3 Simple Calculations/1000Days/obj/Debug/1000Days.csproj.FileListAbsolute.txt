@@ -1,9 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\1000Days\bin\Debug\1000Days.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\1000Days\obj\Debug\1000Days.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\1000Days\bin\Debug\1000Days.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\1000Days\bin\Debug\1000Days.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\1000Days\obj\Debug\1000Days.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Solution1\1000Days\obj\Debug\1000Days.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\1000Days\bin\Debug\1000Days.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\1000Days\obj\Debug\1000Days.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\1000Days\obj\Debug\1000Days.pdb

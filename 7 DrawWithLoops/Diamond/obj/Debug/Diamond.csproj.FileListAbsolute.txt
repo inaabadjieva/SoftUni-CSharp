@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Diamond\bin\Debug\Diamond.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Diamond\bin\Debug\Diamond.exe
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Diamond\bin\Debug\Diamond.pdb
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Diamond\obj\Debug\Diamond.exe
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Diamond\obj\Debug\Diamond.pdb
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\Diamond\bin\Debug\Diamond.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\Diamond\obj\Debug\Diamond.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\Diamond\obj\Debug\Diamond.pdb

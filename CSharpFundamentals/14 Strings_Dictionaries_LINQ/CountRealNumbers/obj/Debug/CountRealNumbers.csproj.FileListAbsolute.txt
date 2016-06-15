@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\CountRealNumbers\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

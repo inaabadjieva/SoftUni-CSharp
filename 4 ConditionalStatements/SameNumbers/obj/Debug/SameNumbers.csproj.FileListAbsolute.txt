@@ -1,9 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SameNumbers\bin\Debug\SameNumbers.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SameNumbers\obj\Debug\SameNumbers.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SameNumbers\bin\Debug\SameNumbers.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SameNumbers\bin\Debug\SameNumbers.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SameNumbers\obj\Debug\SameNumbers.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ConditionalStatements\SameNumbers\obj\Debug\SameNumbers.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\SameNumbers\bin\Debug\SameNumbers.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\SameNumbers\obj\Debug\SameNumbers.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\4 ConditionalStatements\SameNumbers\obj\Debug\SameNumbers.pdb

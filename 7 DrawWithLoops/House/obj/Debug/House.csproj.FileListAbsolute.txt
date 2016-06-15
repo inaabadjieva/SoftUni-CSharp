@@ -1,9 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House\bin\Debug\House.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House\bin\Debug\House.exe
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House\bin\Debug\House.pdb
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House\obj\Debug\House.exe
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House\obj\Debug\House.pdb
-c:\users\ina\documents\visual studio 2013\Projects\DrawWithLoops\House\obj\Debug\House.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\House\bin\Debug\House.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\House\obj\Debug\House.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\7 DrawWithLoops\House\obj\Debug\House.pdb

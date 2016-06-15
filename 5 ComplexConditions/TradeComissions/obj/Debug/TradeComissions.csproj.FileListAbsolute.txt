@@ -1,8 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\TradeComissions\bin\Debug\TradeComissions.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\TradeComissions\bin\Debug\TradeComissions.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\TradeComissions\bin\Debug\TradeComissions.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\TradeComissions\obj\Debug\TradeComissions.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexConditions\TradeComissions\obj\Debug\TradeComissions.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\TradeComissions\bin\Debug\TradeComissions.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\TradeComissions\obj\Debug\TradeComissions.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\5 ComplexConditions\TradeComissions\obj\Debug\TradeComissions.pdb

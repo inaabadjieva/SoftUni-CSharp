@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 DrawDNA_Chars\bin\Debug\3 DrawDNA_Chars.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 DrawDNA_Chars\bin\Debug\3 DrawDNA_Chars.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 DrawDNA_Chars\bin\Debug\3 DrawDNA_Chars.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 DrawDNA_Chars\obj\Debug\3 DrawDNA_Chars.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 DrawDNA_Chars\obj\Debug\3 DrawDNA_Chars.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\3 DrawDNA_Chars\obj\Debug\3 DrawDNA_Chars.pdb

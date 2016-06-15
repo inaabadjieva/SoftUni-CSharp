@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\13 ListsAndMatrices\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\PairsByDifference\bin\Debug\PairsByDifference.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\PairsByDifference\bin\Debug\PairsByDifference.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\PairsByDifference\bin\Debug\PairsByDifference.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\PairsByDifference\obj\Debug\PairsByDifference.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\12 Arrays\PairsByDifference\obj\Debug\PairsByDifference.pdb

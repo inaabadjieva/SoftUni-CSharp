@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\Exams\4 PopulationAggregation\bin\Debug\4 PopulationAggregation.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\Exams\4 PopulationAggregation\bin\Debug\4 PopulationAggregation.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\Exams\4 PopulationAggregation\bin\Debug\4 PopulationAggregation.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\Exams\4 PopulationAggregation\obj\Debug\4 PopulationAggregation.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\Exams\4 PopulationAggregation\obj\Debug\4 PopulationAggregation.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\Exams\4 PopulationAggregation\obj\Debug\4 PopulationAggregation.pdb

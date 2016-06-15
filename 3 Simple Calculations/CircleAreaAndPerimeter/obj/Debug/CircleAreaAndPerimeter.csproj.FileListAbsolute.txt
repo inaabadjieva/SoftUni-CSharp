@@ -1,8 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
-c:\users\ina\documents\visual studio 2013\Projects\Solution1\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\3 Simple Calculations\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

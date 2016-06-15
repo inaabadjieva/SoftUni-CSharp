@@ -1,0 +1,6 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\4 TrifonQuest\bin\Debug\4 TrifonQuest.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\4 TrifonQuest\bin\Debug\4 TrifonQuest.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\4 TrifonQuest\bin\Debug\4 TrifonQuest.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\4 TrifonQuest\obj\Debug\4 TrifonQuest.csprojResolveAssemblyReference.cache
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\4 TrifonQuest\obj\Debug\4 TrifonQuest.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\FinalEntryExamSoftUni\4 TrifonQuest\obj\Debug\4 TrifonQuest.pdb

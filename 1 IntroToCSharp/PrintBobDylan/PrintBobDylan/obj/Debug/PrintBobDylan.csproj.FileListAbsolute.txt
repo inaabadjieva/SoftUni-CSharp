@@ -1,5 +1,0 @@
-c:\users\ina\documents\visual studio 2013\Projects\PrintBobDylan\PrintBobDylan\bin\Debug\PrintBobDylan.exe.config
-c:\users\ina\documents\visual studio 2013\Projects\PrintBobDylan\PrintBobDylan\bin\Debug\PrintBobDylan.exe
-c:\users\ina\documents\visual studio 2013\Projects\PrintBobDylan\PrintBobDylan\bin\Debug\PrintBobDylan.pdb
-c:\users\ina\documents\visual studio 2013\Projects\PrintBobDylan\PrintBobDylan\obj\Debug\PrintBobDylan.exe
-c:\users\ina\documents\visual studio 2013\Projects\PrintBobDylan\PrintBobDylan\obj\Debug\PrintBobDylan.pdb

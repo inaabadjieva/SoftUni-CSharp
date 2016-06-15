@@ -1,3 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\PhoneProcesses\bin\Debug\PhoneProcesses.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\PhoneProcesses\obj\Debug\PhoneProcesses.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\PhoneProcesses\obj\Debug\PhoneProcesses.pdb

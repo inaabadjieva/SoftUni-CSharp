@@ -1,2 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\5 WaveBits\bin\Debug\5 WaveBits.exe.config
-C:\Users\Ina PC\Documents\Projects\SoftUni\Exams\5 WaveBits\bin\Debug\5 WaveBits.exe.config

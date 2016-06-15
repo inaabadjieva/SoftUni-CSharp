@@ -1,6 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 BeerStock\bin\Debug\2 BeerStock.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 BeerStock\bin\Debug\2 BeerStock.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 BeerStock\bin\Debug\2 BeerStock.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 BeerStock\obj\Debug\2 BeerStock.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 BeerStock\obj\Debug\2 BeerStock.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\Exams\2 BeerStock\obj\Debug\2 BeerStock.pdb

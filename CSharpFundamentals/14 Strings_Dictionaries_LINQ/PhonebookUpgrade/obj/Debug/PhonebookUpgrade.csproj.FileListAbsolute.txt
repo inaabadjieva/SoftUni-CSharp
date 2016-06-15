@@ -1,0 +1,5 @@
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PhonebookUpgrade\bin\Debug\PhonebookUpgrade.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\PhonebookUpgrade\obj\Debug\PhonebookUpgrade.pdb

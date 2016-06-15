@@ -1,0 +1,8 @@
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfLetters\bin\Debug\MatrixOfLetters.exe.config
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfLetters\bin\Debug\MatrixOfLetters.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfLetters\bin\Debug\MatrixOfLetters.pdb
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfLetters\obj\Debug\MatrixOfLetters.exe
+C:\Users\Ina\documents\visual studio 2013\Projects\13 ListsAndMatrices\MatrixOfLetters\obj\Debug\MatrixOfLetters.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MatrixOfLetters\bin\Debug\MatrixOfLetters.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MatrixOfLetters\obj\Debug\MatrixOfLetters.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\13 ListsAndMatrices\MatrixOfLetters\obj\Debug\MatrixOfLetters.pdb

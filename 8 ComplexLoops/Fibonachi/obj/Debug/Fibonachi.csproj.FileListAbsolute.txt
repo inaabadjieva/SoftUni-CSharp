@@ -1,9 +1,0 @@
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\Fibonachi\bin\Debug\Fibonachi.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\Fibonachi\obj\Debug\Fibonachi.csprojResolveAssemblyReference.cache
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\Fibonachi\bin\Debug\Fibonachi.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\Fibonachi\bin\Debug\Fibonachi.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\Fibonachi\obj\Debug\Fibonachi.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\ComplexLoops\Fibonachi\obj\Debug\Fibonachi.pdb
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\Fibonachi\bin\Debug\Fibonachi.exe.config
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\Fibonachi\obj\Debug\Fibonachi.exe
-C:\Users\Ina\Documents\Visual Studio 2013\Projects\8 ComplexLoops\Fibonachi\obj\Debug\Fibonachi.pdb
