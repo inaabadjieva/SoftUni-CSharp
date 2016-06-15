@@ -1,1 +1,1 @@
-# SoftUni_CShar master
+# SoftUni_CSharp
