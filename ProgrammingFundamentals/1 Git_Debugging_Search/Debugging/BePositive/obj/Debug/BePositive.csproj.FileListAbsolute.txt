@@ -1,6 +1,0 @@
-C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\BePositive\bin\Debug\BePositive.exe.config
-C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\BePositive\bin\Debug\BePositive.exe
-C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\BePositive\bin\Debug\BePositive.pdb
-C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache
-C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\BePositive\obj\Debug\BePositive.exe
-C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\Debugging\BePositive\obj\Debug\BePositive.pdb

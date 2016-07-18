@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1098f404-3d0d-43d5-b7ab-66a1214468cc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/bin/Debug/Substring.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/bin/Debug/Debugging.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/obj/Debug/BePositive.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/bin/Debug/InstructionSet.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/bin/Debug/InstructionSet.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Debugging.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/BePositive.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/bin/Debug/BePositive.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/bin/Debug/Substring.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/obj/Debug/Substring.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/obj/Debug/DoublePalindromes.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/bin/Debug/DoublePalindromes.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/App.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/obj/Debug/BePositive.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/bin/Debug/ArrayTest.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/bin/Debug/Substring.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/obj/Debug/Debugging.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/bin/Debug/Substring.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/obj/Debug/InstructionSet.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/App.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Debugging.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/App.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/bin/Debug/ArrayTest.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/ArrayTest.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/obj/Debug/Substring.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/bin/Debug/BePositive.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/obj/Debug/InstructionSet.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/bin/Debug/Debugging.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/obj/Debug/Debugging.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/bin/Debug/ArrayTest.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/obj/Debug/BePositive.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/bin/Debug/ArrayTest.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/bin/Debug/Debugging.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/obj/Debug/Debugging.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/bin/Debug/ArrayTest.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/obj/Debug/InstructionSet.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/.vs/Debugging/v14/.suo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/bin/Debug/Debugging.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/bin/Debug/BePositive.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/bin/Debug/DoublePalindromes.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/bin/Debug/DoublePalindromes.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/bin/Debug/InstructionSet.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/bin/Debug/BePositive.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/obj/Debug/ArrayTest.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/bin/Debug/InstructionSet.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/obj/Debug/Substring.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/bin/Debug/Debugging.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/bin/Debug/ArrayTest.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/bin/Debug/DoublePalindromes.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/App.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/obj/Debug/BePositive.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/bin/Debug/InstructionSet.vshost.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/App.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/bin/Debug/InstructionSet.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/obj/Debug/Debugging.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/bin/Debug/Substring.vshost.exe.manifest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/obj/Debug/ArrayTest.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/obj/Debug/InstructionSet.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/Substring.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/bin/Debug/Debugging.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/InstructionSet.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/bin/Debug/BePositive.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Substring/bin/Debug/Substring.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/App.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/obj/Debug/ArrayTest.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/DoublePalindromes.csproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/Properties/AssemblyInfo.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/BePositive/bin/Debug/BePositive.vshost.exe.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/Debugging/ArrayTest/obj/Debug/ArrayTest.csproj.FileListAbsolute.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/DoublePalindromes/Program.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ProgrammingFundamentals/1 Git_Debugging_Search/InstructionSet/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/Program.cs" afterPath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/Agein10years.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/Agein10years.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/Agein10years.exe" afterPath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/Agein10years.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/bin/Debug/Agein10years.vshost.exe" afterPath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/bin/Debug/Agein10years.vshost.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/bin/Debug/Agein10years.pdb" afterPath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/bin/Debug/Agein10years.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/Agein10years.pdb" afterPath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/Agein10years.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/Agein10years.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/obj/Debug/Agein10years.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/bin/Debug/Agein10years.exe" afterPath="$PROJECT_DIR$/CSharpFundamentals/1 IntroToCSharp/Agein10years/Agein10years/bin/Debug/Agein10years.exe" />
+    </list>
+    <ignored path="SoftUni.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SoftUni" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="38" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="postController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/controllers/postController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="postView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/views/postView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics/MultipleValuesPerKey.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics/StoringObjects.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics/ParseToJSONString.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics/ParseJSONObject.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics/ObjectToJSONString.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/ShowMoreText.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/ListOfItems.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/SelectableTowns.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/AJAX.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/ListOfItems.html.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/CountriesTable.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/countries.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary.css" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/countries.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/login-page.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/scripts/login-page.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/scripts/register.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/login.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/register.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/createBook.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/new-book.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/scripts/createBook.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/scripts/show-books.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/scripts/showBooks.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/show-books.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/index.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/styles.css" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/listOfItems.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/listOfItems.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/3 JQuery_AJAX/bookLibrary/scripts/login.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/4 BooksApp/books.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/4 BooksApp/styles/books.css" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/4 BooksApp/scripts/books.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/SoftUniBlog/BlogWithCustomFramework/scripts/controllers/PostController.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/SoftUniBlog/BlogWithCustomFramework/scripts/controllers/HomeController.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/SoftUniBlog/BlogWithCustomFramework/scripts/views/homeView.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/SoftUniBlog/BlogWithCustomFramework/scripts/controllers/homeController.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/SoftUniBlog/BlogWithCustomFramework/scripts/controllers/userController.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/SoftUniBlog/BlogWithCustomFramework/scripts/app.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/SoftUniBlog/BlogWithCustomFramework/scripts/views/userView.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/SoftUniBlog/BlogWithCustomFramework/scripts/controllers/postController.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/SoftUniBlog/BlogWithCustomFramework/scripts/views/postView.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/index.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/controllers/homeController.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/templates/recent-posts.html" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/views/homeView.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/controllers/postController.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/app.js" />
+        <option value="$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/views/postView.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="906" />
+    <option name="width" value="1021" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftwareTechnologies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftwareTechnologies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUniBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftwareTechnologies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUniBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlogWithCustomFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftwareTechnologies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUniBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlogWithCustomFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftwareTechnologies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUniBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlogWithCustomFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftwareTechnologies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUniBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlogWithCustomFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftwareTechnologies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUniBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BlogWithCustomFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftUni" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SoftwareTechnologies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="wrap&#9;ACTION&#9;EditorToggleUseSoftWraps&#10;word wrap&#9;null&#9;null" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ina PC\Documents\Projects\SoftUni\SoftwareTechnologies\4 BooksApp\scripts" />
+      <recent name="C:\Users\Ina PC\Documents\Projects\SoftUni\SoftwareTechnologies\3 JQuery_AJAX\bookLibrary\scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ina PC\Documents\Projects\SoftUni\SoftwareTechnologies\3 JQuery_AJAX\bookLibrary" />
+      <recent name="C:\Users\Ina PC\Documents\Projects\SoftUni\SoftwareTechnologies\3 JQuery_AJAX\bookLibrary\scripts" />
+      <recent name="C:\Users\Ina PC\Documents\Projects\SoftUni\ProgrammingFundamentals\1 HTML_CSS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.ObjectToJSONString.js">
+    <configuration default="false" name="KeyValuePairs.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="KeyValuePairs.js" working-dir="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics">
+      <method />
+    </configuration>
+    <configuration default="false" name="MultipleValuesPerKey.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="MultipleValuesPerKey.js" working-dir="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics">
+      <method />
+    </configuration>
+    <configuration default="false" name="StoringObjects.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="StoringObjects.js" working-dir="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics">
+      <method />
+    </configuration>
+    <configuration default="false" name="ParseToJSONString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics/ParseJSONObject.js" working-dir="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics">
+      <method />
+    </configuration>
+    <configuration default="false" name="ObjectToJSONString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ObjectToJSONString.js" working-dir="$PROJECT_DIR$/SoftwareTechnologies/2 JavaScriptBasics">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.KeyValuePairs.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.MultipleValuesPerKey.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.StoringObjects.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.ParseToJSONString.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.ObjectToJSONString.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ObjectToJSONString.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.ParseToJSONString.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.StoringObjects.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.MultipleValuesPerKey.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.KeyValuePairs.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1098f404-3d0d-43d5-b7ab-66a1214468cc" name="Default" comment="" />
+      <created>1466046558965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1466046558965</updated>
+      <workItem from="1466046561689" duration="25627000" />
+      <workItem from="1466315525752" duration="50000" />
+      <workItem from="1466325502546" duration="29916000" />
+      <workItem from="1466673288811" duration="14686000" />
+      <workItem from="1466752762966" duration="19660000" />
+      <workItem from="1467096185327" duration="17398000" />
+      <workItem from="1467120395017" duration="60071000" />
+      <workItem from="1467289260574" duration="81000" />
+      <workItem from="1467290206273" duration="23000" />
+      <workItem from="1467293268476" duration="18141000" />
+      <workItem from="1467449820745" duration="592000" />
+      <workItem from="1467871734725" duration="250000" />
+      <workItem from="1468051319968" duration="34000" />
+      <workItem from="1468052309973" duration="8368000" />
+      <workItem from="1468669780287" duration="465000" />
+      <workItem from="1468844996482" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="195364000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="906" y="0" width="1021" height="1040" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.320398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20729166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="SoftUni" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="SoftUni" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="38" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/controllers/postController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/views/postView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SoftwareTechnologies/JavaScript/SoftUniBlog/BlogWithCustomFramework/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

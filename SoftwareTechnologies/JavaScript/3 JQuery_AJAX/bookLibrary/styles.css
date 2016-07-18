@@ -1,0 +1,8 @@
+aside ul li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 15px;
+}
+#booksList li{
+    margin: 10px;
+}
