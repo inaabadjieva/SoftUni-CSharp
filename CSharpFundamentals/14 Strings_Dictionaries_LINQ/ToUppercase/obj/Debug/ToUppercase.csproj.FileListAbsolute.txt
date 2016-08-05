@@ -3,3 +3,4 @@ C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Diction
 C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ToUppercase\bin\Debug\ToUppercase.pdb
 C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ToUppercase\obj\Debug\ToUppercase.exe
 C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ToUppercase\obj\Debug\ToUppercase.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\ToUppercase\obj\Debug\ToUppercase.csprojResolveAssemblyReference.cache

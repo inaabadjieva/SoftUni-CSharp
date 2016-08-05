@@ -3,3 +3,6 @@ C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\C
 C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\CensorYourEmail\bin\Debug\CensorYourEmail.pdb
 C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\CensorYourEmail\obj\Debug\CensorYourEmail.exe
 C:\Users\Ina PC\Documents\Projects\Telerik\CSharp\14 Strings_Dictionaries_LINQ\CensorYourEmail\obj\Debug\CensorYourEmail.pdb
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\CensorYourEmail\bin\Debug\CensorYourEmail.exe.config
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\CensorYourEmail\obj\Debug\CensorYourEmail.exe
+C:\Users\Ina PC\Documents\Projects\SoftUni\CSharpFundamentals\14 Strings_Dictionaries_LINQ\CensorYourEmail\obj\Debug\CensorYourEmail.pdb
