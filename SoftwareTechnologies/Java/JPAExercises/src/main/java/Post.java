@@ -1,3 +1,6 @@
+/**
+ * Created by axltop on 05.08.16.
+ */
 import javax.persistence.*;
 import java.time.LocalDateTime;
 import java.util.HashSet;

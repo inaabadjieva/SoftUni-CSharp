@@ -1,10 +1,9 @@
 /**
- * Created by Ina PC on 8/5/2016.
+ * Created by axltop on 05.08.16.
  */
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
-
 @Entity
 @Table(name = "users")
 public class User {

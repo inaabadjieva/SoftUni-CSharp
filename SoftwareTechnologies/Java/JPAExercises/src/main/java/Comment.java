@@ -1,3 +1,6 @@
+/**
+ * Created by axltop on 05.08.16.
+ */
 import javax.persistence.*;
 import java.time.LocalDateTime;
 
@@ -31,7 +34,6 @@ public class Comment {
     public String getText() {
         return text;
     }
-
     public void setText(String text) {
         this.text = text;
     }

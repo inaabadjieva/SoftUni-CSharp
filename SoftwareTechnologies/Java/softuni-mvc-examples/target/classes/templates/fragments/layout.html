@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head th:fragment="head">
+    <meta charset="UTF-8" />
+    <title th:if="${pageTitle}" th:text="${pageTitle}"></title>
+    <link rel="stylesheet" href="content/site.css"/>
+</head>
+<body>
+    <header th:fragment="site-header" th:style="'background:#EEE;'">
+        Header
+    </header>
+
+    <main>
+
+    </main>
+
+    <footer th:fragment="site-footer">
+        (c) Reserved 2016
+    </footer>
+</body>
+</html>
